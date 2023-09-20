@@ -19,4 +19,4 @@ The app is installed with external Go engine  as listed below:
 GNU Go version 3.8,  GNU Go home page
 
 ## Contact
-Bug, comment or suggestion? Welcome to send me an email jkadreamer at gmail dot com.
+Bug, comment or suggestion? Welcome to send email me to jkadreamer at gmail dot com.
