@@ -14,7 +14,7 @@ You may click the right button on a function key or on the region of screen, tha
 
 ## Installation
 OS : Windows 10 + 
-Click here to download.  This will lead you to the page of Microsoft App Store.
+The App is downloadable from Microsoft App Store.
 The app is installed with external Go engine  as listed below:
 GNU Go version 3.8,  GNU Go home page
 
