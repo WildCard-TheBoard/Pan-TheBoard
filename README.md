@@ -8,8 +8,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 Support SGF file read and write.   
 Play game with GNU Go.   
 
-Note: Instruction manual or help is not provided because the function of the App is pretty simple.  
-You may click the right button on a function key or on the region of screen, that will show up the option list when available.
+Note: Instruction manual or help is not provided because the function of the App is pretty simple. You may click the right button on a function key or on the region of screen, that will show up the option list when available.
 
 ## Installation
 OS : Windows 10+  
