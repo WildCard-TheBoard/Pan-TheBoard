@@ -1,8 +1,6 @@
 layout: page
 title: "privacy"
-permalink: /about/contact/
-
-
+permalink: /Privacy/Privacy/
 ## Privacy Policy
 
 Sweet Dreamer built the Pän::The Board app as a Free app. This SERVICE is provided by Sweet Dreamer at no cost and is intended for use as is. 
