@@ -1,9 +1,4 @@
-layout: template  
-title: "Privacy"  
-permalink: /Privacy  
-filename: Privacy.md  
-
-Privacy Policy
+## Privacy Policy
 
 Sweet Dreamer built the Pän::The Board app as a Free app. This SERVICE is provided by Sweet Dreamer at no cost and is intended for use as is. 
 
@@ -63,4 +58,4 @@ This policy is effective as of 2023-07-12
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact the author.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact the author at jkadreamer at gmail dot com.
