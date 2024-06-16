@@ -32,10 +32,14 @@
         <br/>   
         <br/>
         <br/>
-        <br/>         
-        <p style="text-align:center;"><a href="https://sites.google.com/view/goboardproject/home">Google site</a></p>
+        <br/> 
 
-
+        {% if Major InfoSite List %}
+        <p style="text-align:center;"><a>InfoSite</a></p>
+        <p style="text-align:center;"><a href="https://senseis.xmp.net/">Sensei's Library</a></p>
+        <p style="text-align:center;"><a href="https://www.lifein19x19.com/index.php">Life in 19x19</a></p>
+        <p style="text-align:center;"><a href="https://online-go.com/">Online Go dot com</a></p>
+        {% endif %}
         
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -52,7 +56,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>Maintained by <a href="{{ site.github.owner_name}}">{{ site.github.owner_name }}</a></p>
+        <p style="text-align:center;">Maintained by <a>Sweet Dreamer</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
