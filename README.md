@@ -1,1 +1,1 @@
-## Pän::The Board InfoCenter Home
+## Pän::The Board InfoCenter
