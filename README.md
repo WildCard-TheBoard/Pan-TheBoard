@@ -1,1 +1,1 @@
-## InfoCenter Page Layout 
+## Pän::The Board InfoCenter Home
