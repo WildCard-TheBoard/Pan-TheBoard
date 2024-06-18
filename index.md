@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### Description 1
-Provide various board sizes, and play game with Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment.   
+### New to Go?
+From Sensei's Library..
+Find out [https://senseis.xmp.net/?WhatIsGo]What Go Is, visit the [https://senseis.xmp.net/?PagesForBeginners]Pages for Beginners or go straight to the [https://senseis.xmp.net/?BeginnerStudySection]Beginner Study Section.
 
 ### Description 2
 Provide various board sizes, and play game with Go engine.   
