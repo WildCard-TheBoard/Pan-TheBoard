@@ -5,7 +5,7 @@ layout: default
 ### New to Go?
 From Sensei's Library..
 
-Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [https://senseis.xmp.net/?PagesForBeginners]Pages for Beginners or go straight to the [https://senseis.xmp.net/?BeginnerStudySection]Beginner Study Section.
+Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for Beginners](https://senseis.xmp.net/?PagesForBeginners) or go straight to the [Beginner Study Section](https://senseis.xmp.net/?BeginnerStudySection).
 
 ### Description 2
 Provide various board sizes, and play game with Go engine.   
