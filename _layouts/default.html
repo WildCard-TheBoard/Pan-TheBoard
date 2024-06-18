@@ -25,6 +25,12 @@
         <p style="text-align:center;">Latest ver. 1-0-21<br> in <a href="https://www.microsoft.com/store/apps/9MT0M2CVM7HJ">MS Store</a></p>         
         
         <br/> 
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        
         <h3 style="text-align:center;">InfoSite</h3>
         <p style="text-align:center;"><a href="https://senseis.xmp.net/">Sensei's Library</a><br>
         <a href="https://www.lifein19x19.com/index.php">Life in 19x19</a><br>
