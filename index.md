@@ -18,7 +18,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 |Example 1      |Life and Death | GBF           |YouTube |Korean     |   
 |Example 2      |Life and Death | GBF           |YouTube |Korean     |    
 
-_More from Game page.._
+<br>&nbsp;  <small>_More from_</small> _Game page.._
 
 ### Description 3
 Provide various board sizes, and play game with Go engine.   
