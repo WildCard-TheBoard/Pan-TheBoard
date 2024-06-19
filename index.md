@@ -12,7 +12,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 
 
 ### Game list 
-* * *
+
 | Name          | Game Type     |Go file    | Video  | Language  |    
 |:-------------:|:-------------:|:---------:|:------:|:---------:|    
 | Example 1     | Life and Death| GBF       |YouTube |Korean     |   
