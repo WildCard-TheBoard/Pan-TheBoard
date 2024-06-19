@@ -8,17 +8,16 @@ Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for B
 
 ### Description 2
 Provide various board sizes, and play game with Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment.   
-
-### Game list 
+Board size available from 9x9 to 19x19, 21x21 for experiment. 
 
 * * *
-
-
+### Game list 
 | Name          | Game Type     |  Video  | Go file  |Language   |
 |:-------------:|:-------------:|:-------:|:--------:|:---------:|
 | Example 1     | Life and Death| YouTube | GBF      | Korean    |
 | Example 2     | Life and Death| YouTube | GBF      | Korean    |
+
+* * *
 
 ### Description 3
 Provide various board sizes, and play game with Go engine.   
