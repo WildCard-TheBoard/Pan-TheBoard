@@ -13,6 +13,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 ***
 ### Game list 
 <small>_More from_</small> [_Game page_](https://senseis.xmp.net/)..
+
 |Title          | Game Type     |Go file type   | Video  | Language  |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:|    
 |Life_and_Death_Ex_1    |Life and Death | <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex 1.gbf">GBF</a>           |[YouTube](https://www.youtube.com/watch?v=FYlLTAezFAU&list=WL&index=12&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91) |Korean     |   
