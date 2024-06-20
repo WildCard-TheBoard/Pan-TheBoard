@@ -12,7 +12,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 
 ***
 ### Game list 
-<small>_More from_</small> [_Game page_](../Pan-TheBoard/GameFiles/GameList.md).. <a href="../Pan-TheBoard/GameFiles/GameList.md">Game page..</a>
+<small>_More from_</small> [_Game page_](../GameFiles/GameList.md).. <a href="../Pan-TheBoard/GameFiles/GameList.md">Game page..</a>
 
 |Title          | Game type     |Go file type   | Video  | Language  |Description |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
