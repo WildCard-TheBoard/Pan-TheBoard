@@ -11,8 +11,8 @@ Provide various board sizes, and play game with Go engine.
 Board size available from 9x9 to 19x19, 21x21 for experiment. 
 
 ***
-### Game list 
-<small>_More from_</small> [_Game page_](../GameFiles/GameList.md).. <a href="../Pan-TheBoard/GameFiles/GameList.md">Game page..</a>
+### Game list -
+<small>_More from_</small> [_Game page_](../GameFiles/GameList.md).. <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GameList.md"> _Game page_ </a>
 
 |Title          | Game type     |Go file type   | Video  | Language  |Description |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
