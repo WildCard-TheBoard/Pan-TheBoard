@@ -12,7 +12,7 @@ Board size available from 9x9 to 19x19, 21x21 for experiment.
 
 ***
 ### Game list -
-<small>_More from_</small> [_Game page_](../master/GameFiles/GameList.md).. <a href="https://wildcard-theboard.github.io/Pan-TheBoard/blob/master/GameFiles/GameList.md"> _Game page_ </a>
+<small>_More from_</small> [_Game page_](../master/GameFiles/GameList.md)..
 
 |Title          | Game type     |Go file type   | Video  | Language  |Description |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
