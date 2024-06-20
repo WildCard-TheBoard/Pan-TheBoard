@@ -5,7 +5,8 @@ layout: default
 ### New to Go?     
 Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for Beginners](https://senseis.xmp.net/?PagesForBeginners) or go straight to the [Beginner Study Section](https://senseis.xmp.net/?BeginnerStudySection) at [_Sensei's Library_](https://senseis.xmp.net/).. <br>
 
-Video clip to start: [How to Play Go: Rules Explained | Beginner Tutorial on Go Game, Baduk, Weiqi](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic). Findmore courses and video lessons with interactive puzzles at [_GOMAGIC.ORG_](https://www.youtube.com/@GoMagic)..
+Video clip to start: [How to Play Go: Rules Explained | Beginner Tutorial on Go Game, Baduk, Weiqi](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic). Find more courses and video lessons with interactive puzzles at [_GOMAGIC.ORG_](https://www.youtube.com/@GoMagic)..
+
 
 ### Description 2
 Provide various board sizes, and play game with Go engine.   
