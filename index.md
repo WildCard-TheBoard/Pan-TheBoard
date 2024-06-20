@@ -11,8 +11,8 @@ Provide various board sizes, and play game with Go engine.
 Board size available from 9x9 to 19x19, 21x21 for experiment. 
 
 ***
-### Game list 
-<small>_More from_</small> [_Game page_](../GameFiles/GameList.mdx)..
+### Game list -
+<small>_More from_</small> [_Game page_](../Pan-TheBoard/GameFiles/GameList.md)..
 
 |Title          | Game type     |Go file type   | Video  | Language  |Description |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
