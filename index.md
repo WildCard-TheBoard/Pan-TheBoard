@@ -10,7 +10,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 [History of the Ancient Game of Go](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas). Go is the most ancient, continuously played board game in the world, with the rules remaining essentially the same for 3500 years..
 
 ***
-### Download and play game 
+### Game, Watch and Play 
 <small>_More at</small> [_Game page_](GameFiles/GameList.md)..
 
 |Title          | Game type     |Go file type   | Video  | Language  |Description |    
