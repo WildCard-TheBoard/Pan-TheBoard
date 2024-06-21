@@ -20,9 +20,9 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 |...            |...            |...            |...     |...        |...         |
 
 
-### Description 2
-Provide various board sizes, and play game with Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment. 
+### Info site
+[_Life in 19x19_](https://www.lifein19x19.com/index.php), Forum where you can ask and get the info. The latest uodate of Go club, Books, Go engines such as KataGo and Leela Zero, and more..<br>
+And, play game with others at [_OGS_](https://online-go.com/).
 
 
 
