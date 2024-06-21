@@ -26,10 +26,20 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 Got bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
 
 ### Channels to watch video
-[_Dwyrin_](https://www.youtube.com/@dwyrin) the BEST go club on the internet! Here you can find many of my Go Games and Go lessons recorded for your entertainment and education..<br>
-[_Go Pro Yeonwoo_](https://www.youtube.com/@goproyeonwoo/featured) Korean Go professional player 2p, Yeonwoo Cho and would like to share many fun & useful Go contents..<br>
-[_Go Inside_](https://www.youtube.com/@eunkyodo) Reviewing top games and lecturing on the fundamentals..<br>
-[_Go problems_](https://www.goproblems.com/) provides the ultimate go problems known as puzzles or tsumego to help people improve at the game of go..<br>
-[_NYIG_Go_](https://www.youtube.com/@NYIGGo/featured) brings you Go content by professional Go players & director.. <br>
+[_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
+the BEST go club on the internet! Here you can find many of my Go Games and Go lessons recorded for your entertainment and education..<br>
+
+[_Go Pro Yeonwoo_](https://www.youtube.com/@goproyeonwoo/featured)  <br>
+Korean Go professional player 2p, Yeonwoo Cho and would like to share many fun & useful Go contents..<br>
+
+[_Go Inside_](https://www.youtube.com/@eunkyodo)  <br>
+Reviewing top games and lecturing on the fundamentals..<br>
+
+[_Go problems_](https://www.goproblems.com/)  <br>
+provides the ultimate go problems known as puzzles or tsumego to help people improve at the game of go..<br>
+
+[_NYIG_Go_](https://www.youtube.com/@NYIGGo/featured)  <br>
+brings you Go content by professional Go players & director.. <br>
+
 
 
