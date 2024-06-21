@@ -25,11 +25,11 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 
 Got bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
 
-### Description 3
-Provide various board sizes, and play game with Go engine.   
-Board size available from 9x9 to 19x19, 21x21 for experiment.   
-
-
-
+### Channels to watch video
+[_Dwyrin_](https://www.youtube.com/@dwyrin)<br>
+[_Go Pro Yeonwoo_](https://www.youtube.com/@goproyeonwoo/featured)<br>
+[_Go Inside_](https://www.youtube.com/@eunkyodo)<br>
+[_Go problems_](https://www.goproblems.com/)<br>
+[_NYIG_Go_](https://www.youtube.com/@NYIGGo/featured)<br>
 
 
