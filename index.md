@@ -20,9 +20,10 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 |...            |...            |...            |...     |...        |...         |
 
 
-### Info site
-[_Life in 19x19_](https://www.lifein19x19.com/index.php), Forum where you can ask and get the info. The latest uodate of Go club, Books, Go engines such as KataGo and Leela Zero, and more..<br>
-And, play game with others at [_OGS_](https://online-go.com/).
+### Talk and Play
+[_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the info. The latest uodate of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
+
+Get bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
 
 
 
