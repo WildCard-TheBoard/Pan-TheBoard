@@ -25,7 +25,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 
 Got bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
 
-### Channels to watch video
+### Channels for more
 [_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
 the BEST go club on the internet! Here you can find many of my Go Games and Go lessons recorded for your entertainment and education..<br>
 
