@@ -20,10 +20,10 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 |...            |...            |...            |...     |...        |...         |
 
 
-### Talk and Play
-[_Life in 19x19_](https://www.lifein19x19.com/index.php), The Forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
+### Be Social
+[_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
 
-Got bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
+Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. 
 
 ### Channels for more
 [_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
