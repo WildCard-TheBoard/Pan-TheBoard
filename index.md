@@ -21,11 +21,9 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 
 
 ### Talk and Play
-[_Life in 19x19_](https://www.lifein19x19.com/index.php), The Forum where you can ask and get the info. The latest uodate of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
+[_Life in 19x19_](https://www.lifein19x19.com/index.php), The Forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
 
-Get bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
-
-
+Got bored? Play game with others at [_OGS_](https://online-go.com/). The site also provides Go resources, Puzzles, Tools.. 
 
 ### Description 3
 Provide various board sizes, and play game with Go engine.   
