@@ -20,7 +20,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 |...            |...            |...            |...     |...        |...         |
 
 
-### Be Social
+### Be Social!
 [_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
 
 Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. 
