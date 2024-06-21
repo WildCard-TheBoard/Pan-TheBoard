@@ -27,7 +27,7 @@ Got bored? Play game with others at [_OGS_](https://online-go.com/). The site al
 
 ### Channels for more
 [_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
-the BEST go club on the internet! Here you can find many of my Go Games and Go lessons recorded for your entertainment and education..<br>
+Go club on the internet! Here you can find many of his Go Games and Go lessons recorded for your entertainment and education..<br>
 
 [_Go Pro Yeonwoo_](https://www.youtube.com/@goproyeonwoo/featured)  <br>
 Korean Go professional player 2p, Yeonwoo Cho and would like to share many fun & useful Go contents..<br>
