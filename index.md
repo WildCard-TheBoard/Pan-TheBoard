@@ -11,7 +11,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 
 ***
 ### Watch and Play 
-<small>More at</small> [_Game page_](GameFiles/GameList.md)..
+<small>more at</small> [_Game page_](GameFiles/GameList.md)..
 
 |Title          | Game type     |File type      | Video  | Language  |Remarks     |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:|:----------:|    
