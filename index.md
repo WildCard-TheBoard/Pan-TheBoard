@@ -13,7 +13,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 ### Game List, Watch and Play 
 <small>More at</small> [_Game page_](GameFiles/GameList.md)..
 
-|Title          | Game type     |Go file type   | Video  | Language  |Remarks     |    
+|Title          | Game type     |File type      | Video  | Language  |Remarks     |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:|:----------:|    
 |Life and Death Ex. 1    |Life and Death | <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 1.gbf">GBF</a>           |[YouTube](https://www.youtube.com/watch?v=FYlLTAezFAU&list=WL&index=12&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91) |Korean     |-                                 |
 |Life and Death Ex. 2    |Life and Death | <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 2.gbf">GBF</a>         |[YouTube](https://www.youtube.com/watch?v=LIKY_yBT57A&list=WL&index=13&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91) |Korean     |-                                 |
