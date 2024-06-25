@@ -1,4 +1,5 @@
 ---
+title: Game List
 layout: default
 ---
 
