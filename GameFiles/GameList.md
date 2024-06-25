@@ -1,5 +1,5 @@
 ---
-title: Game List
+title: Game List Page
 layout: default
 ---
 
