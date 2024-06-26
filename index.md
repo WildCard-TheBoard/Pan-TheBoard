@@ -20,7 +20,7 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 |Life and Death Ex. 2    |Life and Death | <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 2.gbf">GBF</a>         |[YouTube](https://www.youtube.com/watch?v=LIKY_yBT57A&list=WL&index=13&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91) |Korean     |-                                 |
 |...            |...            |...            |...     |...        |...         |
 
-* [_Do you want to list your Go related video and game file here?_](_Pages/LinkToInfoCenter.md)
+* [_Do you want to list your Go related video and game file here?_](Pages/LinkToInfoCenter.md)
 
 ### Be Social!
 [_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
