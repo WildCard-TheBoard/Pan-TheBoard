@@ -15,7 +15,7 @@ The file must be stored on such as Google Drive and shareable to public, so we c
 * GBF file is recommended to build a link to your video and protect game information.
 
 #### Conversion from SGF to GBF file 
-Creates Web link to your video from GBF file
+Creates Web link to your video in GBF file
 1. Set the board to Pän or Edit mode. <br>
 2. Read the file you want to edit. It can be SGF or GBF file.
 3. Click 'Edit information' button at left panel.<br>
