@@ -29,7 +29,7 @@ After adding the web link, the board has to show the hyper link as specified bel
          <img 
            src="../assets/img/The%20Board%20With%20Web%20Link.png" 
            onerror="this.onerror=null; this.src='assets/img/The%20Board%20With%20Web%20Link.png';"
-           width="60%" alt="Weblink"           
+           width="80%" alt="Weblink"           
            />         
         </p>
 
