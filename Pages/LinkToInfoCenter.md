@@ -6,7 +6,7 @@ layout: default
 ### Link to InfoCenter
 Simply send an email to jkadreamer at gmail dot com with the information below: <br>
 1. Link to your video with verbal language<br>
-The language doesn't have to be English only. Just inform to user before selection.<br>
+The language doesn't have to be English only. Just give information to user for convenience.<br>
 YouTube or any you created, that is playable by regular web browser such as Chrome or Edge<br>
 Ex) YouTube - internet address of your video on YouTube, that is displayed on the address bar on the browser.
 
