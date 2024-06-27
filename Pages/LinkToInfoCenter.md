@@ -6,16 +6,17 @@ layout: default
 ### Link to InfoCenter
 Simply send an email to jkadreamer at gmail dot com with the information below: <br>
 1. Link to your video with verbal language<br>
+The language doesn't have to be English only. Just inform to user before selection.<br>
 YouTube or any you created, that is playable by regular web browser such as Chrome or Edge<br>
 Ex) YouTube - internet address of your video on YouTube, that is displayed on the address bar on the browser.
+
 2. Link to your Go file <br>
 Allowed file type: SGF or GBF<br>
 The file must be stored on such as Google Drive and shareable to public, so we can download.<br>
 * SGF file is OK that is available like standard format for most of Go Game Editor.<br> 
 * GBF file is recommended to build a link to your video and protect game information.
 
-#### Conversion from SGF to GBF file 
-Creates Web link to your video in GBF file
+#### Create GBF file with Web link to your video
 1. Set the board to Pän or Edit mode. <br>
 2. Read the file you want to edit. It can be SGF or GBF file.
 3. Click 'Edit information' button at left panel.<br>
