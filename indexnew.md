@@ -14,13 +14,9 @@ Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/
 ### Watch and Play 
 <small>Find more at</small> [_Game page 1_](GameFiles/GameList1.md), [_Game page 2_](GameFiles/GameList2.md)..
 
-|Life and Death Ex. 1 | Life and Death  |File type      |
-|:-------------------:|:---------------:|:-------------:| 
-|[![Watch the video](https://img.youtube.com/vi/FYlLTAezFAU/1.jpg)](https://www.youtube.com/watch?v=FYlLTAezFAU&list=WL&index=12&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91)
-
-|Life and Death | <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 1.gbf">GBF</a> |
-
-[YouTube](https://www.youtube.com/watch?v=FYlLTAezFAU&list=WL&index=12&ab_channel=%EB%82%98%EC%9D%B4%EB%A1%B1%EB%B0%94%EB%91%91)
+|                     |                 |
+|:-------------------:|:---------------:|
+|[![Watch the video](https://img.youtube.com/vi/FYlLTAezFAU/1.jpg)](https://www.youtube.com/watch?v=FYlLTAezFAU)|Life and Death Ex.1 <br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 1.gbf">GBF</a> |
 
 
 * [_Go content creator? List your Go related video and game file here.._](Pages/LinkToInfoCenter.md)
