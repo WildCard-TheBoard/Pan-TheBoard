@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Game list 1
-<small>Move to</small> [_Game List 2_](../GameFiles/GameList2.md)
+<small>Move to</small> [_Game List 2_](GameList2.md)
 
 |Title          | Game type     |File type      | Video  | Language  |Remarks     |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
