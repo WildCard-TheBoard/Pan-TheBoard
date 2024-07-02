@@ -3,7 +3,8 @@ title: Game List Page
 layout: default
 ---
 
-### Game list
+### Game list 1
+<small>Move to</small> [_Game List 2_](GameFiles/GameList2.md)
 
 |Title          | Game type     |File type      | Video  | Language  |Remarks     |    
 |:-------------:|:-------------:|:-------------:|:------:|:---------:| :---------:|    
