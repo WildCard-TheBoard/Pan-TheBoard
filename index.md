@@ -6,7 +6,7 @@ layout: default
 ### New to Go?     
 Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for Beginners](https://senseis.xmp.net/?PagesForBeginners) or go straight to the [Beginner Study Section](https://senseis.xmp.net/?BeginnerStudySection) at [_Sensei's Library_](https://senseis.xmp.net/).. <br>
 
-Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic). Find more courses and video lessons with interactive puzzles at [_Go magic.org_](https://www.youtube.com/@GoMagic)..<br>
+Video clip to start, [How to Play Go - Rules Explained](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic). Find more courses and video lessons with interactive puzzles at [_Go Magic.org_](https://www.youtube.com/@GoMagic)..<br>
 
 [History of the Ancient Game of Go](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas). Go is the most ancient, continuously played board game in the world, with the rules remaining essentially the same for 3500 years..
 
