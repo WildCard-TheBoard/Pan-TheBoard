@@ -14,7 +14,7 @@ Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for B
 |[![Watch the video](https://img.youtube.com/vi/Hr_nv1xy9-g/1.jpg)](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas)|[History of the Ancient Game of Go](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas)<br>Go is the most ancient, continuously played board game in the world, with the rules remaining essentially the same for 3500 years..|
 
 #### Online Go Lesson
-[_polgote.com_](https://polgote.com/), Book online Go lessons with teachers from all around the world.The booking platform for connecting students with Go teachers for the online Go lessons has been launched.. 
+[_polgote.com_](https://polgote.com/), Book online Go lessons with teachers from all around the world. The booking platform for connecting students with Go teachers for the online Go lessons has been launched.. 
 
 #### Channels for more
 [_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
