@@ -4,7 +4,8 @@ layout: default
 ---
 
 ### File and Mode Control
-<img src="img/Board 1.png"  width="60%" alt="Board overall"/>         
+Top row of the app
+<img src="img/Board 1 - Title bar.png"  width="100%" alt="Title bar"/>         
                       
 <img src="img/Board 1 Menu.png" alt="Menu bar"/>                
 
