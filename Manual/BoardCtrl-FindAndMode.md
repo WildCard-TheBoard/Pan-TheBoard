@@ -3,7 +3,7 @@ title: Manual - File and Mode
 layout: default
 ---
 
-### Board setup and control
+### File and Mode Control
 <img src="img/Board 1.png"  width="60%" alt="Board overall"/>         
                       
 <img src="img/Board 1 Menu.png" alt="Menu bar"/>                
