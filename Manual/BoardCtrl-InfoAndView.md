@@ -4,9 +4,11 @@ layout: default
 ---
 
 ### Information and View Control
-<img src="img/Board 1.png"  width="60%" alt="Board overall"/>         
-                      
-<img src="img/Board 1 - Game Info.png" alt="Game info"/>                
+<img src="img/Board 1 - Board only.png"  width="60%" alt="Board only overall"/>         
+
+|            |                   |  
+|:-----------|:------------------|
+|<img src="img/Board 1 - Game Info.png" alt="Game info"/>  |               
 
 <img src="img/Board 1 - Mode control.png" alt="Mode control"/> 
 
