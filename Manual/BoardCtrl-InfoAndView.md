@@ -5,7 +5,9 @@ layout: default
 
 ### Information and View Control
 Main window of the app
-<img src="img/Board 1 - Board only.png"  width="60%" alt="Board only overall"/>         
+
+<img src="img/Board 1 - Board only.png"  width="60%" alt="Board only overall"/>   
+
 As shown, the main view of the board is divided to 3 parts as below.
 
 |            |                   |  
