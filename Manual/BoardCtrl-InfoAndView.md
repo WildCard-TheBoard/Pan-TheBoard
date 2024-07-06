@@ -9,8 +9,8 @@ As shown, the main view of the board is divided to 3 parts as below.
 
 |            |                   |  
 |:-----------|:------------------|
-|<img src="img/Board 1 - Game Info.png" alt="Game info"/>       |Game information panel at left   |              
-|<img src="img/Board 1 - Mode control.png" alt="Mode control"/> |Mode and display control at right |
+|<img src="img/Board 1 - Game Info.png" width="60%" alt="Game info"/>       |Game information panel at left   |              
+|<img src="img/Board 1 - Mode control.png" width="60%" alt="Mode control"/> |Mode and display control at right |
 
 Board and the controls 
 <img src="img/Board 1 - Board center.png" alt="Board center"/> 
