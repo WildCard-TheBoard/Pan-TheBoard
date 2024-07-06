@@ -4,9 +4,7 @@ layout: default
 ---
 
 ### File and Mode Control
-<img src="img/Board 1.png"  width="60%" alt="Board overall"/>        
-
-<img src="img/InfoView1.png" alt="InfoView overall"/>    
+<img src="img/InfoView1.png" width="60%" alt="InfoView overall"/>    
 
 <img src="img/InfoView1 - Menubar.png" alt="InfoView menu"/>   
 
