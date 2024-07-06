@@ -13,7 +13,7 @@ As shown, the main view of the board is divided to 3 parts as below.
 |<img src="img/Board 1 - Mode control.png" width="60%" alt="Mode control"/> |Mode and display control at right |
 
 Board and the controls 
-<img src="img/Board 1 - Board center.png" alt="Board center"/> 
+<img src="img/Board 1 - Board center.png" width="60%" alt="Board center"/> 
 
 <img src="img/Board 1 - Jump and Autoplay.png" alt="Jump and Autoplay"/> 
 
