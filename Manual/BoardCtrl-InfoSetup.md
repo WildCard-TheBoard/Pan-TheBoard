@@ -15,7 +15,7 @@ Below is another game setup dialog. As shown it does not show the available boar
 
 |            |                   |  
 |:-----------|:------------------|
-|<img src="img/Board 7 - Game setup.png"  width="60%" alt="Game setup"/> |<img src="img/Board 9 - Game info panel.png"  width="60%" alt="Game info panel"/>  |   
+|<img src="img/Board 7 - Game setup.png" alt="Game setup"/> |<img src="img/Board 9 - Game info panel.png" alt="Game info panel"/>  |   
 
 
 
