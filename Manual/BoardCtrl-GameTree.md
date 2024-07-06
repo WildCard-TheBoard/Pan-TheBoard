@@ -4,7 +4,9 @@ layout: default
 ---
 
 ### Game Tree
-<img src="img/InfoView1.png" width="60%" alt="InfoView overall"/>    
+<img src="img/Board 1 - InfoView Icon.png" alt="InfoView icon"/> 
+
+<img src="img/InfoView1.png" width="30%" alt="InfoView overall"/>    
 
 <img src="img/InfoView1 - Menubar.png" alt="InfoView menu"/>   
 
