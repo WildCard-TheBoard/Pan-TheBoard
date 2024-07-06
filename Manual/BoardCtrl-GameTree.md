@@ -1,9 +1,9 @@
 ---
-title: Manual - File and Mode 
+title: Manual - Game Tree Management 
 layout: default
 ---
 
-### File and Mode Control
+### Game Tree
 <img src="img/InfoView1.png" width="60%" alt="InfoView overall"/>    
 
 <img src="img/InfoView1 - Menubar.png" alt="InfoView menu"/>   
