@@ -5,10 +5,13 @@ layout: default
 
 ### Information and View Control
 <img src="img/Board 1 - Board only.png"  width="60%" alt="Board only overall"/>         
+As shown, the main view of the board is divided to 3 parts as below.
 
 |            |                   |  
 |:-----------|:------------------|
-|<img src="img/Board 1 - Game Info.png" alt="Game info"/>  |               
+|<img src="img/Board 1 - Game Info.png" alt="Game info"/>  |Game information panel|               
+|<img src="img/Board 1 - Board center.png" alt="Board center"/> |Board and the controls    |
+
 
 <img src="img/Board 1 - Mode control.png" alt="Mode control"/> 
 
