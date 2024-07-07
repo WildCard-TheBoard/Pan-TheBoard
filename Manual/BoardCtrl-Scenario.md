@@ -30,4 +30,17 @@ Click 'Yes' when a dialog box is shown.<br>
 And, the stone layout is displayed as below:<br>
 <img src="img/Scenario 4.png"  width="60%" alt="Scenario 4"/>  
 
+Chek out where is the newly created 'Scenario' game tree from the combo box of the app or use 'InfoView' window. Scroll down to the end and find it with the automatically assigned game title as "Scenario 14 : Life and death in Regular form".
+
+|            |                   |  
+|:-----------|:------------------|
+|<img src="img/Scenario 4-1.png"  width="60%" alt="Scenario 4-1"/>|<img src="img/Scenario 4-2.png"  width="60%" alt="Scenario 4-2"/> | 
+
+
+
+
+
+
+
+
 
