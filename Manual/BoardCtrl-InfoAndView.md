@@ -29,3 +29,4 @@ Board controls at the bottom
 |<img src="img/Board 5 - Display control.png" alt="Board display"/>             |Move the cursor on the board and click the right button of mouse. It shows current board setting values as shown.<br>User can select graphic board or monochrome board. Also able to show or hide controls of the board      |
 |<img src="img/Board 6 - Background setup.png" alt="Board background"/>         |Move the cursor on the left or right side of the board and click the right button of mouse. It shows also the menu bar that user can determine the display of the board background.                                            |
 
+[Back to Contents](BoardCtrl-Contents.md)
