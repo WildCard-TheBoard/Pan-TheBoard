@@ -11,7 +11,7 @@ And, open the sample file, Sample_GBF_1_File.gbf, that can be downloaded from 'A
 
 The board displays the stones as shown above, and the details are explained in the sections below:
 
-1. File and Mode Control
+1. [File and Mode Control](BoardCtrl-FileAndMode.md)
 2. Board Status Control
 3. Information and View Control
 4. Game Tree and Management
