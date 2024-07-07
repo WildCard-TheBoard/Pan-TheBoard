@@ -3,11 +3,14 @@ title: Manual - Game Tree Management
 layout: default
 ---
 
-### Game Tree
-<img src="img/Board 1 - InfoView Icon.png" alt="InfoView icon"/> 
+### Game Tree and Management
+Click 'InfoView' icon <img src="img/Board 1 - InfoView Icon.png" alt="InfoView icon"/> from the status bar of the app. It will open a windows on the right side shown as below:
 
-<img src="img/InfoView1.png" width="30%" alt="InfoView overall"/>    
+|            |                   |  
+|:-----------|:------------------|
+|<img src="img/InfoView1.png" alt="InfoView overall"/> |The window some menu icons on the top. In the middle, the file name and the game titles are listed, and , at the bottom, selected game information is displayed.  |   
+|<img src="img/InfoView1 - Game tree 1.png" alt="InfoView game tree 1"/> |            |
 
 <img src="img/InfoView1 - Menubar.png" alt="InfoView menu"/>   
 
-<img src="img/InfoView1 - Game tree.png" alt="Game tree"/>
+<img src="img/InfoView1 - Game tree.png" width="30%" alt="Game tree"/>
