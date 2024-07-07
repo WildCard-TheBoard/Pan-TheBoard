@@ -21,7 +21,7 @@ Stone is displayed from #1 to #39 as shown.
 Move back to stone number 28. Use traverse button or just type the number in the edit box as shown and enter.<br>
 <img src="img/Scenario 3-1.png" width="60%" alt="Scenario 3-1"/> <br> 
 
-The board has to be shown as below.
+The board has to be shown as below.<br>
 <img src="img/Scenario 3.png"  width="60%" alt="Scenario 3"/>  
 
 Now is ready to create a 'Scenario' game tree. Click the button 'Scenario' <img src="img/Scenario 3-2.png"  width="5%" alt="Scenario 3-2"/> from the status bar of the app. 
@@ -44,9 +44,10 @@ See that the board is currently reading "Resolution 1" from the game tree. That 
 
 Go back to the board. And, click the button 'Edit Information' at the bottom of left panel.<br>
 <img src="img/Scenario 5.png"  width="60%" alt="Scenario 5"/>
+
 Put and/or revise the information in the box. When finished, click 'Update' and 'Save'.
 
-Be careful! Do not check the boc 'Lock the information ?' until the information is finalized. Or, the information can not be editable.
+Be careful! Do not check the box 'Lock the information ?' until the information is finalized. Or, the information can not be editable.
 
 
 
