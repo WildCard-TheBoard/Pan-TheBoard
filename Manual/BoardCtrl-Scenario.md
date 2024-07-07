@@ -49,6 +49,7 @@ Put and/or revise the information in the box. When finished, click 'Update' and 
 
 Be careful! Do not check the box 'Lock the information ?' until the information is finalized. Or, the information can not be editable.
 
+[Back to Contents](BoardCtrl-Contents.md)
 
 
 
