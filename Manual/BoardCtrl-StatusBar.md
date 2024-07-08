@@ -2,7 +2,7 @@
 title: Manual - Status Control 
 layout: default
 ---
-
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-StatusBar.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-InfoAndView.md)
 ### Board Status Control
 Second row of the app
 
