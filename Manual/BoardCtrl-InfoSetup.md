@@ -3,7 +3,7 @@ title: Manual - Game Information Setup
 layout: default
 ---
 
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoAndView.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-InfoSetup.md)
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoAndView.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-GameTree.md)
 ### Game Information Setup
 By clicking icons or buttons of 'New File', 'Add Game', 'Edit Information' and 'Game Setup', it shows a dialog shown below. It could be little different case by case but mostly identical in detail. User is requested to fill the information carefully, and , if not, the default value on the dialog is applied. Of course, it can be revised when required.
 
@@ -18,7 +18,7 @@ Below is another game setup dialog. As shown it does not show the available boar
 |:-----------|:------------------|
 |<img src="img/Board 7 - Game setup.png" alt="Game setup"/> |<img src="img/Board 9 - Game info panel.png" alt="Game info panel"/>  |   
 
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoAndView.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-InfoSetup.md)
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoAndView.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-GameTree.md)
 
 
 
