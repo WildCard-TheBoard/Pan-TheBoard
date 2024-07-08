@@ -3,7 +3,7 @@ title: Manual - Contents
 layout: default
 ---
 
-### Getting Started.
+### Getting Started
 Assumed the app, Pän::The Board, is installed and turned on.
 And, open the sample file, Sample_GBF_1_File.gbf, that can be downloaded from 'App Catalogue' page.
 
