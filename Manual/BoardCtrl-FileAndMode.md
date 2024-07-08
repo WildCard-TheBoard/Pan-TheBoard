@@ -2,7 +2,7 @@
 title: Manual - File and Mode 
 layout: default
 ---
-[Contents](BoardCtrl-Contents.md) [Next >](BoardCtrl-StatusBar.md)
+[Contents](BoardCtrl-Contents.md)     [Next >](BoardCtrl-StatusBar.md)
 ### File and Mode Control
 Top row of the app
 
