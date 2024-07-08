@@ -16,4 +16,4 @@ Second row of the app
 
 [Back to Contents](BoardCtrl-Contents.md)
 
-
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-FileAndMode.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-InfoAndView.md)
