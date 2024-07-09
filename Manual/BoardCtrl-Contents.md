@@ -14,7 +14,8 @@ The board displays the stones as shown above, and the details are explained in t
 1. [File and Mode Control](BoardCtrl-FileAndMode.md)
 2. [Board Status Control](BoardCtrl-StatusBar.md)
 3. [Information and View Control](BoardCtrl-InfoAndView.md)
-4. [Game Tree and Management](BoardCtrl-GameTree.md)
-5. [Consider Scenario!](BoardCtrl-Scenario.md)
+4. [Game Information Setup](BoardCtrl-InfoSetup.md)
+5. [Game Tree and Management](BoardCtrl-GameTree.md)
+6. [Consider Scenario!](BoardCtrl-Scenario.md)
 
 
