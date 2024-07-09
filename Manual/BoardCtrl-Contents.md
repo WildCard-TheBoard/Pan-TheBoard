@@ -5,7 +5,7 @@ layout: default
 
 ### Getting Started
 Assumed the app, Pän::The Board, is installed and turned on.
-And, open the sample file, [Sample_GBF_1_File.gbf](https://WildCard-TheBoard.github.io/Sample_GBF_1_File.gbf), that can be downloaded from 'App Catalogue' page.
+Download and open the sample file, [Sample_GBF_1_File.gbf](https://WildCard-TheBoard.github.io/Sample_GBF_1_File.gbf).
 
 <img src="img/Board 1.png"  width="60%" alt="Board overall"/>   
 
