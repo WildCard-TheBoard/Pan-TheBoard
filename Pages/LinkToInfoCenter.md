@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Link to InfoCenter
-Pän::The Board provides learning material in the form of video and/or Go file through InfoCenter. It helps user have hand-on practice, and, also gives Go creator attract more audience. To do so,   
+Pän::The Board provides learning material in the form of video and/or Go file through InfoCenter. It helps user have hands-on practice, and, also gives Go creator attract more audience. To do so,   
 
 Simply send an email to jkadreamer at gmail dot com with the information below: <br>
 
