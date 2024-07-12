@@ -7,6 +7,6 @@ relative_links:
   enabled:     true
   collections: true
   
-title: [Pän::The Board]
+title: Pän::The Board
 description: [Go board project]
 
