@@ -42,4 +42,6 @@ provides the ultimate go problems known as puzzles or tsumego to help people imp
 [_NYIG_Go_](https://www.youtube.com/@NYIGGo/featured)  <br>
 brings you Go content by professional Go players & director.. <br>
 
+[_InGoWeLoved_](https://www.youtube.com/@InGoWeLoved)  <br>
+Go game(Igo/Baduk/Weiqi/바둑) channel, no matter you are the beginner of the Go game or you are the expert..<br>
 
