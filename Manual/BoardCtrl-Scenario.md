@@ -3,7 +3,7 @@ title: Manual - Consider Scenario!
 layout: default
 ---
 
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-GameTree.md)
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](GameTreeTraverse.md)
 ### Consider Scenario!
 "Scenario" is a special game tree structure that has protected part as 'definition' and user added part as 'resolution'. It might be useful tool for lecturer or Go content creator. The concept and use is explained with a sample as below:<br/>
 
@@ -50,7 +50,7 @@ Put and/or revise the information in the box. When finished, click 'Update' and 
 
 Watch out! Do not check the box 'Lock the information ?' until the information is finalized. Or, the information can not be editable.
 
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-GameTree.md)
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](GameTreeTraverse.md)
 
 
 
