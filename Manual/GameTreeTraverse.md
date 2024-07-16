@@ -3,24 +3,21 @@ title: Manual - Traverse between Game Tree
 layout: default
 ---
 
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoSetup.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-Scenario.md)
-### Game Tree and Management
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-GameTree.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-Scenario.md)
+### Traverse between Game Tree
 Assumed the app, Pän::The Board, is installed and turned on.
-Download and open a branch display file, [Branch Display Experiment.gbf](https://WildCard-TheBoard.github.io/Branch Display Experiment.gbf). 
+Download and open a branch sample file, [BranchDisplayExperiment.gbf](SampleFiles/BranchDisplayExperiment.gbf). <br>
 The file is created just to explain how stone moves are attached on game tree.
-
-
 
 |            |                   |  
 |:-----------|:------------------|
-|<img src="img/Branch 1.png" alt="Branch 1"/> |The window shows menu icons on the top. In the middle, the file name and the game titles are listed, and , at the bottom, selected game information is displayed.  |   
+|<img src="img/Branch 1.png" alt="Branch 1"/> |This shows the board when the sample file is opened. This is main game tree with 10 stones. The main tree has 'cyan color tag' on the last stone, #10, as shwon.  |   
+|<img src="img/InfoViewBranch.png" alt="InfoView branch"/> | Open game tree InfoView by select <img src="img/Board 1 - InfoView Icon.png" width="8%" alt="InfoViewe Icon"/> from status bar.<br>Click the chevron from the file and game header as shown. You can see a chevron again added on the stone #2. This means there is another 'sister' game tree at the stone #2. Click all the down headed chevron and make them all right headed as shown below.  |
+|<img src="img/InfoViewBranch-2.png" alt="InfoView branch 2"/> |From the InfoViewer, You can see that stone #2 on main tree has 5 more 'sister' trees. <br> Select anywhere on the last game tree of commented 'Issue 1', and click 'Sync' from the menu bar of InfoViewer.|   
+|<img src="img/Branch 2.png" alt="Branch 2"/> |See the board that shows the selected game tree.<br> The original stone at D16 does not show the stone number because it is the main game tree, and also it cannot be editable for color change or drag. Stone number start from newly added game tree as shown, and the last stone. #5, has 'red color tag' that means displayed game tree is Sub-Branch.<br/> You may select any of game tree from the InfoViewer and see the attached stone layout on the the board. Even you can go back to the original main game tree from here.  |   
+|<img src="img/Branch 3.png" alt="Branch 3"/> |When a sub-branch is displayed, the board has an additional traverse button as shwon below:<br><img src="img/GoBackToUpperBranchButton.png" alt="Back to Upper Button"/><br> This is a button to go back to main branch. Click it, and the board shows the stone of the main branch that was the top of the sub-branch. If required, you can traverse the main branch from here.   |   
 
-<br>
 
-|<img src="img/InfoView1 - Game tree 1.png" alt="InfoView game tree 1"/> | As shown, the information section has the file name on the top and the game titles are attached below. This is similar look of branch on a tree and called game tree.<br> <img src="img/VirtualStoneMarker-240x240x.png" width="5%" alt="Regular game tree marker"/>This marker means it is 'Regular' game tree.<br> <img src="img/RoundMarker-240x240x24.png"  width="5%" alt="Scenario game tree marker"/>This marker means it is 'Scenario' game tree.|
-|<img src="img/InfoView1 - Game tree 2.png" alt="InfoView game tree 2"/> |Click the arrow '>' at the left of a game tree. Again, it shows the stone information with number, stone color and its coordinate on the board. Again, this is a part of game tree.  | 
-|<img src="img/InfoView1 - Menubar.png" alt="InfoView menu"/> | The menu bar on the top provides tools to manage the game tree as below: <br><br>'Sync' - Select a branch and click 'Sync'. The game tree is displayed on the board. <br>'Comment' - Selecte a branch and click 'Comment'. It opens an edit box to add or revise the existing comment on the selected branch.<br>'Branch Trim' - This removes a selected game tree and its sub-branch.<br>'Copy' - This creates a copy of a selected game tree and add it at the end of the tree. <br>'Move up' and 'Move down' - It moves up or down a selected game tree.<br><br>* The menum items are activated based on the selected game tree.<br><br>* The game tree may not be properly displayed when working on it. This is still under review. In case you have, just turn it off and on again, then the tree is properly displayed |
-
-[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-InfoSetup.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-Scenario.md)
+[Back to Contents](BoardCtrl-Contents.md)&nbsp; &nbsp; &nbsp;[< Prev](BoardCtrl-GameTree.md)&nbsp; &nbsp; &nbsp;[Next >](BoardCtrl-Scenario.md)
 
 
