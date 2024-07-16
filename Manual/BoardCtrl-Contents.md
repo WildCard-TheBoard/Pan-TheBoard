@@ -16,6 +16,7 @@ The board displays the stones as shown above, and the details are explained in t
 3. [Information and View Control](BoardCtrl-InfoAndView.md)
 4. [Game Information Setup](BoardCtrl-InfoSetup.md)
 5. [Game Tree and Management](BoardCtrl-GameTree.md)
-6. [Consider Scenario!](BoardCtrl-Scenario.md)
+6. [Traverse between Game Tree](GameTreeTraverse.md)
+7. [Consider Scenario!](BoardCtrl-Scenario.md)
 
 
