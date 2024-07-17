@@ -15,7 +15,12 @@ Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for B
 |[![Watch the video](https://img.youtube.com/vi/oZTdT8MQexk/1.jpg)](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic) |[How to Play Go - Rules Explained](https://www.youtube.com/watch?v=oZTdT8MQexk&ab_channel=GoMagic).<br>Find more courses and video lessons with interactive puzzles at [_Go Magic.org_](https://www.youtube.com/@GoMagic)..|
 |[![Watch the video](https://img.youtube.com/vi/Hr_nv1xy9-g/1.jpg)](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas)|[History of the Ancient Game of Go](https://www.youtube.com/watch?v=Hr_nv1xy9-g&ab_channel=52LivingIdeas)<br>Go is the most ancient, continuously played board game in the world, with the rules remaining essentially the same for 3500 years..|
 
+***
+### Be Social!
+[_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
 
+Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. 
+***
 
 #### Online Go Lesson
 [_polgote.com_](https://polgote.com/), Book online Go lessons with teachers from all around the world. The booking platform for connecting students with Go teachers for the online Go lessons has been launched.. 
