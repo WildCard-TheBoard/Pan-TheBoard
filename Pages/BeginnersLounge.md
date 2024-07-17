@@ -6,9 +6,7 @@ layout: default
 ### Beginner's Lounge
 Go is an abstract strategy board game for two players in which the aim is to capture more territory than the opponent by fencing off empty space. The game was invented in China more than 2,500 years ago and is believed to be the oldest board game [_Wikipedia_](https://en.wikipedia.org/wiki/Go_(game))..<br>
 
-Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for Beginners](https://senseis.xmp.net/?PagesForBeginners) or go straight to the [Beginner Study Section](https://senseis.xmp.net/?BeginnerStudySection) at [_Sensei's Library_](https://senseis.xmp.net/).. <br>
-
-#### Video clips to watch  
+Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for Beginners](https://senseis.xmp.net/?PagesForBeginners) or go straight to the [Beginner Study Section](https://senseis.xmp.net/?BeginnerStudySection) at [_Sensei's Library_](https://senseis.xmp.net/).. 
 
 |                 |                               |
 |:----------------|:------------------------------|
