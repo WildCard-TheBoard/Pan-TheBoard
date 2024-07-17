@@ -23,7 +23,7 @@ https://drive.google.com/file/d/16a8WObYdByYJLXO2KyhrYZKcLajbOAhV/view?usp=shari
 * SGF file is OK that is available like standard format for most of Go Game Editor.<br> 
 * GBF file is recommended to build a link to your video and protect game information. SGF format can be transformed in a second as explained below. 
 
-#### Create GBF file even from your Go file, and set the link to your video
+#### Create GBF file even from your SGF Go file, and set the link to your video
 1. Set the board to Pän or Edit mode. <br>
 2. Read the file you want to edit. It can be SGF or GBF file.
 3. Click 'Edit information' button at left panel.<br>
