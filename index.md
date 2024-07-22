@@ -13,7 +13,7 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
-|Joseki after Joseki - 12  |[![Watch the video](https://img.youtube.com/vi/79-esrLQMfE/1.jpg)](https://www.youtube.com/watch?v=79-esrLQMfE&ab_channel=GoInside)|Joseki     |<a href="https://drive.google.com/file/d/18-kMa9hBNQKKjLROK6__d44qtqo-PLG6/view?usp=sharing">GBF</a> |English |Case study of 3-3 invasion            |
+|Joseki after Joseki - 12  |[![Watch the video](https://img.youtube.com/vi/79-esrLQMfE/1.jpg)](https://www.youtube.com/watch?v=79-esrLQMfE&ab_channel=GoInside)|Joseki review    |<a href="https://drive.google.com/file/d/18-kMa9hBNQKKjLROK6__d44qtqo-PLG6/view?usp=sharing">GBF</a> |English |Case study of 3-3 invasion            |
 |Life and Death Ex.4  |[![Watch the video](https://img.youtube.com/vi/9PDJUQoVqMg/1.jpg)](https://www.youtube.com/watch?v=9PDJUQoVqMg)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 4.gbf">GBF</a> |Korean |-             |
 |Life and Death Ex.34 |[![Watch the video](https://img.youtube.com/vi/L1vKrSa7Hgk/1.jpg)](https://www.youtube.com/watch?v=L1vKrSa7Hgk)|Life and Death |<a href="https://drive.google.com/file/d/16Gnii7JNin7JKyBHmrKjP0qZE8pqR8ew/view?usp=sharing">GBF</a> |Korean |1'st clip in video            |
 |Tricky play at Star point |[![Watch the video](https://img.youtube.com/vi/c3wLsVXH08g/1.jpg)](https://www.youtube.com/watch?v=c3wLsVXH08g&t=616s)|Joseki |NA |English/Chinese caption|Move variants at corner |
