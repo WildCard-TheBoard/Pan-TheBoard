@@ -3,6 +3,11 @@ title: Capture the white list
 layout: default
 ---
 
+4 - 081924
+|                     |                         |                         
+|:-------------------:|:------------------------|
+| [<img src="img/Life and Death Ex. 37.png" Width = "50%" alt="Life and Death Ex. 37.png"/><br>Click to download game file](https://drive.google.com/file/d/17U1N7Ww83xmvXsXHZefNQQa042GAr_Bm/view?usp=sharing) | Move black first and capture the white stones.<br><br>Reference: Life and Death Ex.37  |
+
 3 - 081124
 |                     |                         |                         
 |:-------------------:|:------------------------|
