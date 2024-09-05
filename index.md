@@ -13,6 +13,7 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Samsung World Go Masters 2024.8.31  |[![Watch the video](https://img.youtube.com/vi/89949HNDEUs/1.jpg)](https://www.youtube.com/watch?v=89949HNDEUs)|Game review    |<a href="https://drive.google.com/file/d/18O0aXTC80DoVMw_fxz8WGXM8bX7P2DHn/view?usp=sharing">GBF</a> |Korean |Li He vs. Choi Jeong           |
 |Life and Death Ex.10  |[![Watch the video](https://img.youtube.com/vi/fWnx7LQ65PI/1.jpg)](https://www.youtube.com/watch?v=fWnx7LQ65PI&list=WL)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 10.gbf">GBF</a> |Korean |-             |
 |Life and Death Ex.40 |[![Watch the video](https://img.youtube.com/vi/P-jicKR9IIc/1.jpg)](https://www.youtube.com/watch?v=P-jicKR9IIc)|Life and Death    |<a href="https://drive.google.com/file/d/17FrvsMskziz8XjVldptB2rCtQzmzKQxY/view?usp=sharing">GBF</a> |Korean |             |
 |Life and Death Ex.9  |[![Watch the video](https://img.youtube.com/vi/6NKiVGjY0DE/1.jpg)](https://www.youtube.com/watch?v=6NKiVGjY0DE)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 9.gbf">GBF</a> |Korean |-             |
