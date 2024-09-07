@@ -8,6 +8,10 @@ layout: default
 |:-------------------:|:------------------------|
 | [<img src="GameFiles/img/Life and Death Ex. 40.png" Width = "50%" alt="Life and Death Ex. 40.png"/><br>Click to download game file](https://drive.google.com/file/d/17FrvsMskziz8XjVldptB2rCtQzmzKQxY/view?usp=sharing) | Save black stones.<br><br>Reference: Life and Death Ex.40  |
 
+|                     |                             
+|:-------------------:|
+| [<img src="assets/img/Banner-BuildYourOwnShareWithUs.png" Width = "100%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
+
 ### Watch and Play 
 <small>Find more at</small> [_Game page 1_](GameFiles/GameList1.md), [_Game page 2_](GameFiles/GameList2.md)..<br>
 
