@@ -2,6 +2,12 @@
 title: Capture the white list
 layout: default
 ---
+
+5 - 090824
+|                     |                         |                         
+|:-------------------:|:------------------------|
+| [<img src="img/Life and Death Ex. 40.png" Width = "50%" alt="Life and Death Ex. 40.png"/><br>Click to download game file](https://drive.google.com/file/d/17FrvsMskziz8XjVldptB2rCtQzmzKQxY/view?usp=sharing)| Save black stones.<br><br>Reference: Life and Death Ex.40  |
+
 5 - 090224
 |                     |                         |                         
 |:-------------------:|:------------------------|
