@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-| [<img src="GameFiles/img/Life and Death Ex. 41.png" Width = "50%" alt="Life and Death Ex. 41.png"/><br>Click to download game file](https://drive.google.com/file/d/17FH0mCBgVuSAsZoFwvfdb814KOj9Yghx/view?usp=sharing) |Capture the white stones.<br><br>Reference: Life and Death Ex.41 |
+| [<img src="GameFiles/img/Life and Death Ex. 41.png" Width = "50%" alt="Life and Death Ex. 41.png"/><br>Click to download game file](https://drive.google.com/file/d/17FH0mCBgVuSAsZoFwvfdb814KOj9Yghx/view?usp=sharing) |Capture the white stones.<br><br>Reference: Life and Death Ex.41|
 
 |                     |                             
 |:-------------------:|
