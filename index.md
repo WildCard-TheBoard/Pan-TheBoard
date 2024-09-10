@@ -10,7 +10,7 @@ layout: default
 
 |                     |                             
 |:-------------------:|
-| [<img src="assets/img/Banner-BuildYourOwnShareWithUs.png" Width = "100%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
+| [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "100%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
 
 ### Watch and Play 
 <small>Find more at</small> [_Game page 1_](GameFiles/GameList1.md), [_Game page 2_](GameFiles/GameList2.md)..<br>
