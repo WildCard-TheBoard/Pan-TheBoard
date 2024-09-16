@@ -3,12 +3,17 @@ title: Capture the white list
 layout: default
 ---
 
-5 - 090824
+8 - 091524
+|                     |                         |                         
+|:-------------------:|:------------------------|
+| [<img src="img/Life and Death Ex. 41.png" Width = "50%" alt="Life and Death Ex. 41.png"/><br>Click to download game file](https://drive.google.com/file/d/17FH0mCBgVuSAsZoFwvfdb814KOj9Yghx/view?usp=sharing) |Capture the white stones.<br><br>Reference: Life and Death Ex.41|
+
+7 - 090824
 |                     |                         |                         
 |:-------------------:|:------------------------|
 | [<img src="img/Life and Death Ex. 40.png" Width = "50%" alt="Life and Death Ex. 40.png"/><br>Click to download game file](https://drive.google.com/file/d/17FrvsMskziz8XjVldptB2rCtQzmzKQxY/view?usp=sharing)| Save black stones.<br><br>Reference: Life and Death Ex.40  |
 
-5 - 090224
+6 - 090224
 |                     |                         |                         
 |:-------------------:|:------------------------|
 | [<img src="img/Life and Death Ex. 39.png" Width = "50%" alt="Life and Death Ex. 39.png"/><br>Click to download game file](https://drive.google.com/file/d/17LvBULlBlGPLf88NJFN7_KXI_DonK2TT/view?usp=sharing) | Move black first and capture all white stones.<br><br>Reference: Life and Death Ex.39  |
