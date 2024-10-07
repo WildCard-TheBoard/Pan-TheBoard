@@ -3,6 +3,11 @@ title: Capture the white list
 layout: default
 ---
 
+11 - 100724
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/Life and Death Ex. 44.png" Width = "60%" alt="Life and Death Ex. 44.png"/><br>Click to download game file](https://drive.google.com/file/d/16wOGeaF-Xo2c6jdobxaDTz9g35rkDviy/view?usp=sharing)|Capture the white stones.<br><br>Reference: Life and Death Ex.44 |
+
 10 - 093024
 |                     |                         |                         
 |:-------------------:|:------------------------|
