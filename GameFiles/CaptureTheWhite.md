@@ -6,7 +6,7 @@ layout: default
 12 - 101424
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="img/Life and Death Ex. 46.png" Width = "60%" alt="Life and Death Ex. 46.png"/><br>Click to download game file](https://drive.google.com/file/d/16rCMaWneeuIKpTfgqXFItpfqGkLobsz8/view?usp=sharing)|Save marked black stones.<br><br>Reference: Life and Death Ex.45 |
+|[<img src="img/Life and Death Ex. 45.png" Width = "60%" alt="Life and Death Ex. 46.png"/><br>Click to download game file](https://drive.google.com/file/d/16sastkK5CaZzNgJTf9k7bhzFqDQi2rbd/view?usp=sharing)|Save marked black stones.<br><br>Reference: Life and Death Ex.45 |
 
 11 - 100724
 |                     |                         |                         
