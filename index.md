@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/Life and Death Ex. 47.png" Width = "60%" alt="Life and Death Ex. 47.png"/><br>Click to download game file](https://drive.google.com/file/d/16rAvBu5dQvKkYUMGk-PwWSaRtZFgYzsj/view?usp=sharing)|Save black stones.<br><br>Reference: Life and Death Ex.47 |
+|[<img src="GameFiles/img/Life and Death Ex. 48.png" Width = "60%" alt="Life and Death Ex. 48.png"/><br>Click to download game file](https://drive.google.com/file/d/16qxu9lYF5w6D-ZWm9XQR7aWpX8Bgp3TU/view?usp=sharing)|Save black stones and capture the marked white stone.<br><br>Reference: Life and Death Ex.48 |
 
 |                     |                             
 |:-------------------:|
@@ -17,12 +17,12 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Life and Death Ex.19  |[![Watch the video](https://img.youtube.com/vi/KhWACEVqJ78/1.jpg)](https://www.youtube.com/watch?v=KhWACEVqJ78)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 19.gbf">GBF</a> |Korean |-             |
+|Life and Death Ex.48 |[![Watch the video](https://img.youtube.com/vi/p1n1QklyVuk/1.jpg)](https://www.youtube.com/watch?v=p1n1QklyVuk)|Life and Death    |<a href="https://drive.google.com/file/d/16qxu9lYF5w6D-ZWm9XQR7aWpX8Bgp3TU/view?usp=sharing">GBF</a> |Korean |             |
 |Life and Death Ex.18  |[![Watch the video](https://img.youtube.com/vi/0nccMPYzr6U/1.jpg)](https://www.youtube.com/watch?v=0nccMPYzr6U)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 18.gbf">GBF</a> |Korean |-             |
 |Life and Death Ex.47 |[![Watch the video](https://img.youtube.com/vi/87AcIwTgYFQ/1.jpg)](https://www.youtube.com/watch?v=87AcIwTgYFQ)|Life and Death    |<a href="https://drive.google.com/file/d/16rAvBu5dQvKkYUMGk-PwWSaRtZFgYzsj/view?usp=sharing">GBF</a> |Korean |             |
 |Life and Death Ex.16  |[![Watch the video](https://img.youtube.com/vi/7JKwknWxwzE/1.jpg)](https://www.youtube.com/watch?v=7JKwknWxwzE)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 16.gbf">GBF</a> |Korean |-             |
 |Life and Death Ex.46 |[![Watch the video](https://img.youtube.com/vi/-OJh5Rx23z8/1.jpg)](https://www.youtube.com/watch?v=-OJh5Rx23z8)|Life and Death    |<a href="https://drive.google.com/file/d/16rCMaWneeuIKpTfgqXFItpfqGkLobsz8/view?usp=sharing">GBF</a> |Korean |             |
-|Life and Death Ex.15  |[![Watch the video](https://img.youtube.com/vi/oDCwIf7Ubpg/1.jpg)](https://www.youtube.com/watch?v=oDCwIf7Ubpg)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 15.gbf">GBF</a> |Korean |-             |
-|Life and Death Ex.45 |[![Watch the video](https://img.youtube.com/vi/AflLuvOJHqA/1.jpg)](https://www.youtube.com/watch?v=AflLuvOJHqA)|Life and Death    |<a href="https://drive.google.com/file/d/16sastkK5CaZzNgJTf9k7bhzFqDQi2rbd/view?usp=sharing">GBF</a> |Korean |             |
 |Samsung World Go Masters 2024.8.31  |[![Watch the video](https://img.youtube.com/vi/89949HNDEUs/1.jpg)](https://www.youtube.com/watch?v=89949HNDEUs)|Game review    |<a href="https://drive.google.com/file/d/18O0aXTC80DoVMw_fxz8WGXM8bX7P2DHn/view?usp=sharing">GBF</a> |Korean |Li He vs. Choi Jeong           |
 |Joseki after Joseki - 12  |[![Watch the video](https://img.youtube.com/vi/79-esrLQMfE/1.jpg)](https://www.youtube.com/watch?v=79-esrLQMfE&ab_channel=GoInside)|Joseki review    |<a href="https://drive.google.com/file/d/18-kMa9hBNQKKjLROK6__d44qtqo-PLG6/view?usp=sharing">GBF</a> |English |Case study of 3-3 invasion            |
 |Tricky play at Star point |[![Watch the video](https://img.youtube.com/vi/c3wLsVXH08g/1.jpg)](https://www.youtube.com/watch?v=c3wLsVXH08g&t=616s)|Joseki |NA |English/Chinese caption|Move variants at corner |
