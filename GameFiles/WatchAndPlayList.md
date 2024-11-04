@@ -3,6 +3,13 @@ title: Watch and Play List
 layout: default
 ---
 
+17 - 110424
+
+|Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
+|:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Life and Death Ex.16  |[![Watch the video](https://img.youtube.com/vi/7JKwknWxwzE/1.jpg)](https://www.youtube.com/watch?v=7JKwknWxwzE)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 16.gbf">GBF</a> |Korean |-             |
+|Life and Death Ex.46 |[![Watch the video](https://img.youtube.com/vi/-OJh5Rx23z8/1.jpg)](https://www.youtube.com/watch?v=-OJh5Rx23z8)|Life and Death    |<a href="https://drive.google.com/file/d/16rCMaWneeuIKpTfgqXFItpfqGkLobsz8/view?usp=sharing">GBF</a> |Korean |             |
+
 17 - 102724
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
