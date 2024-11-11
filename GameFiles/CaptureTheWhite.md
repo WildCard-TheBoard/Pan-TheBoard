@@ -3,7 +3,12 @@ title: Capture the white list
 layout: default
 ---
 
-14 - 110424
+16 - 111124
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/Life and Death Ex. 49.png" Width = "60%" alt="Life and Death Ex. 49.png"/><br>Click to download game file](https://drive.google.com/file/d/16hP8wraf96m64TcfbfBi2KJYq1Y3w5OS/view?usp=sharing)|Save black stones and capture the marked white stone.<br><br>Reference: Life and Death Ex.49 |
+
+15 - 110424
 |                     |                         |                         
 |:-------------------:|:------------------------|
 |[<img src="img/Life and Death Ex. 48.png" Width = "60%" alt="Life and Death Ex. 48.png"/><br>Click to download game file](https://drive.google.com/file/d/16qxu9lYF5w6D-ZWm9XQR7aWpX8Bgp3TU/view?usp=sharing)|Save black stones and capture the marked white stone.<br><br>Reference: Life and Death Ex.48 |
