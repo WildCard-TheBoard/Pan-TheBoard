@@ -11,6 +11,8 @@ Download and open the sample file, [Sample_GBF_1_File.gbf](https://WildCard-TheB
 
 The board displays the stones as shown above, and the details are explained in the sections below:
 
+NOTE: Go puzzle, as known as Tsmego, related section is not ready for now and will be provided soon.
+
 1. [File and Mode Control](BoardCtrl-FileAndMode.md)
 2. [Board Status Control](BoardCtrl-StatusBar.md)
 3. [Information and View Control](BoardCtrl-InfoAndView.md)
