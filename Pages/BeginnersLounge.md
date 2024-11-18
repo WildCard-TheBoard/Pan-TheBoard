@@ -42,3 +42,8 @@ brings you Go content by professional Go players & director.. <br>
 
 [_In Go We Loved_](https://www.youtube.com/@InGoWeLoved)  <br>
 Go game(Igo/Baduk/Weiqi/바둑) channel, no matter you are the beginner of the Go game or you are the expert..<br>
+
+[_Kimura@sansan_](https://www.youtube.com/@kimura-sansan)  <br>
+Many go puzzle and game review collection..<br>
+
+
