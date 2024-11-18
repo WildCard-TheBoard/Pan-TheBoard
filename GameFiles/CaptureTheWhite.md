@@ -3,6 +3,11 @@ title: Capture the white list
 layout: default
 ---
 
+17 - 111824
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/Life and Death Ex. 50.png" Width = "60%" alt="Life and Death Ex. 50.png"/><br>Click to download game file]()|Save black stones by Ko.<br><br>Reference: Life and Death Ex.50 |
+
 16 - 111124
 |                     |                         |                         
 |:-------------------:|:------------------------|
