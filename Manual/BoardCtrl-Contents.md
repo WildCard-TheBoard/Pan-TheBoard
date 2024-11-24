@@ -5,8 +5,6 @@ layout: default
 
 ### Getting Started
 
-<img src="img/Board 1.png"  width="60%" alt="Board overall"/>  
-
 Download the manual <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/The Board - Getting Started.pdf">The Board - Getting Started.pdf</a>.
 
 The sample file in manual : <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a>
