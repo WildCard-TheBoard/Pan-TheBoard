@@ -9,7 +9,4 @@ Download the manual <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Ma
 
 The sample file in manual : <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a>
 
-The board displays the stones as shown above, and the details are explained in the sections below:
-
-
 
