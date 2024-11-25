@@ -12,6 +12,10 @@ layout: default
 |:-------------------:|
 | [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "100%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
 
+|                     |                             
+|:-------------------:|
+| [European Go Congress 2025 Warsaw, Poland 19.07-02.08.2025](https://egc2025.pl/en/)|
+
 ### Watch and Play 
 <small>Find more at</small> [_Game page 1_](GameFiles/GameList1.md), [_Game page 2_](GameFiles/GameList2.md)..<br>
 
