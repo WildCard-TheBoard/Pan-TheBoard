@@ -3,6 +3,13 @@ title: Capture the white list
 layout: default
 ---
 
+18 - 112524
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/071Tsmego500.png" Width = "60%" alt="071Tsmego500.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/071Tsmego500.gbf)|Save black stones by moving first.<br><br>Reference: 071Tsmego500 |
+
+
+
 17 - 111824
 |                     |                         |                         
 |:-------------------:|:------------------------|
