@@ -15,7 +15,7 @@ layout: default
 |                     |                             
 |:-------------------:|
 | [European Go Congress 2025 Warsaw, Poland 19.07-02.08.2025](https://egc2025.pl/en/)|
-
+<br>
 ### Watch and Play 
 <small>Find more at</small> [_Game page 1_](GameFiles/GameList1.md), [_Game page 2_](GameFiles/GameList2.md)..<br>
 
