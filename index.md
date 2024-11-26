@@ -10,8 +10,8 @@ layout: default
 
 |                     |                             
 |:-------------------:|
-| [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "50%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
-| [<img src="assets/img/EGC2025WarsawPoland.png" Width = "50%" />](https://egc2025.pl/en/) |
+| [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "70%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
+| [<img src="assets/img/EGC2025WarsawPoland.png" Width = "70%" />](https://egc2025.pl/en/) |
 
 <br>
 
