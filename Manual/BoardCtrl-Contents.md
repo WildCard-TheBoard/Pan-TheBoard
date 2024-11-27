@@ -13,6 +13,6 @@ layout: default
 
 |                       |                         |
 |:----------------------|:------------------------|
-| Game tree view | Sometimes, the display in GoInfoViewer is mixed up the information with title and the stone moves. The issue is still under the review and investigation. When user has this issue,please turn it off and on. The game tree is refreshed and displays the information properly. |
+| Game tree view <img Width = 200>| Sometimes, the display in GoInfoViewer is mixed up the information with title and the stone moves. The issue is still under the review and investigation. When user has this issue,please turn it off and on. The game tree is refreshed and displays the information properly. |
 
 
