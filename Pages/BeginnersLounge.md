@@ -17,7 +17,9 @@ Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for B
 #### Be Social!
 [_Life in 19x19_](https://www.lifein19x19.com/index.php), The forum where you can ask and get the answer. The latest update of Go club, Books, Go engines such as KataGo and Leela Zero..<br>
 
-Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. 
+Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. <br>
+
+[_goproblems.com_](https://www.goproblems.com/) provides huge collection of Puzzles and Resources..
 
 ***
 
