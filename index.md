@@ -10,6 +10,11 @@ layout: default
 
 |                     |                             
 |:-------------------:|
+| [Now Live! @OGS](https://online-go.com/) |
+| _Watch how others are doing, and learn..._ |
+
+|                     |                             
+|:-------------------:|
 | [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "70%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |
 | [<img src="assets/img/EGC2025WarsawPoland.png" Width = "70%" />](https://egc2025.pl/en/) |
 
