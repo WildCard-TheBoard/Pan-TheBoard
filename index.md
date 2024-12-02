@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/Go puzzle Ex. 120224.png" Width = "60%" alt="Go puzzle Ex. 120224.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Go_puzzle_Ex_120224.gbf)|Capture the white stones by moving first.<br><br>The file is unlock. You may add or change as you wish.<br><br>Reference: Go puzzle Ex. 120224 |
+|[<img src="GameFiles/img/Go puzzle Ex. 120224.png" Width = "60%" alt="Go puzzle Ex. 120224.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Go_puzzle_Ex_120224.gbf)|Capture the white stones by black moving first.<br><br>The file is unlock. You may add or change as you wish.<br><br>Reference: Go puzzle Ex. 120224 |
 
 |                     |                             
 |:-------------------:|
