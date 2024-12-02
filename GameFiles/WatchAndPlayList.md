@@ -3,6 +3,13 @@ title: Watch and Play List
 layout: default
 ---
 
+22 - 120124
+
+|Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
+|:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Tricky play at Star point |[![Watch the video](https://img.youtube.com/vi/c3wLsVXH08g/1.jpg)](https://www.youtube.com/watch?v=c3wLsVXH08g&t=616s)|Joseki |NA |English/Chinese caption|Move variants at corner |
+|Initial 50 moves - 173    |[![Watch the video](https://img.youtube.com/vi/Z4908ZtndZk/1.jpg)](https://www.youtube.com/watch?v=Z4908ZtndZk)       |Game review |<a href="https://drive.google.com/file/d/17r9xwwglFRLBwuxbrOnD5VAFw_45X9cs/view?usp=sharing">GBF</a> |Korean | Beginner's common mistakes  |
+
 21 - 112524
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
