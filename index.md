@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/Go puzzle Ex. 120224.png" Width = "60%" alt="Go puzzle Ex. 120224.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Go_puzzle_Ex_120224.gbf)|Capture the white stones by black moving first.<br><br>The file is unlock. You may add or change as you wish.<br><br>Reference: Go puzzle Ex. 120224 |
+|[<img src="GameFiles/img/LifeAndDeath_405.png" Width = "60%" alt="LifeAndDeath_405.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_405.gbf)|Capture the white stones by black moving first.<br><br>The file is unlock. You may add or change as you wish.<br><br>Reference: Life and Death #405 |
 
 |                     |                             
 |:-------------------:|
@@ -15,7 +15,6 @@ layout: default
 |                     |                             
 |:-------------------:|
 | [<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "70%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) <br> [<img src="assets/img/EGC2025WarsawPoland.png" Width = "70%" />](https://egc2025.pl/en/) |
- 
 
 <br>
 
@@ -24,6 +23,7 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Life and Death #405 |[![Watch the video](https://img.youtube.com/vi/pm35YCDN7pY/1.jpg)](https://www.youtube.com/watch?v=pm35YCDN7pY)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_405.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |7th Wu Qingyuan Cup Final 3rd Round  |[![Watch the video](https://img.youtube.com/vi/1NYTTUmQzho/1.jpg)](https://www.youtube.com/watch?v=1NYTTUmQzho)|Game review    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/7th_Wu_Qingyuan_Cup_Final_3rd_Round.gbf">GBF</a> |Japanese |            |
 |Go puzzle Ex. 120224 |[![Watch the video](https://img.youtube.com/vi/2qPzho56Jng/1.jpg)](https://www.youtube.com/watch?v=2qPzho56Jng)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Go_puzzle_Ex_120224.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Life and Death Ex.23  |[![Watch the video](https://img.youtube.com/vi/6l7UYyRCxnU/1.jpg)](https://www.youtube.com/watch?v=6l7UYyRCxnU)|Life and Death    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/Life and Death Ex. 23.gbf">GBF</a> |Korean |-             |
