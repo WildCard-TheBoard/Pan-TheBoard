@@ -19,7 +19,7 @@ Find out [What Go Is](https://senseis.xmp.net/?WhatIsGo), visit the [Pages for B
 
 Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provides Go resources, Puzzles, Tools.. <br>
 
-[_goproblems.com_](https://www.goproblems.com/) provides huge collection of Puzzles and Resources..
+[_Go problems_](https://www.goproblems.com/) provides the ultimate go problems known as puzzles or tsumego to help people improve at the game of go..
 
 ***
 
@@ -35,9 +35,6 @@ Korean Go professional player 2p, Yeonwoo Cho and would like to share many fun &
 
 [_Go Inside_](https://www.youtube.com/@eunkyodo)  <br>
 Reviewing top games and lecturing on the fundamentals..<br>
-
-[_Go problems_](https://www.goproblems.com/)  <br>
-provides the ultimate go problems known as puzzles or tsumego to help people improve at the game of go..<br>
 
 [_NYIG_Go_](https://www.youtube.com/@NYIGGo/featured)  <br>
 brings you Go content by professional Go players & director.. <br>
