@@ -2,11 +2,11 @@
 title: Home
 layout: default
 ---
-### Save all black stones
+### Capture the white stones
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/GoPuzzle_121124.png" Width = "60%" alt="GoPuzzle_121124.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_121124.gbf)|Save all black stones by moving first.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go puzzle Ex. 121124 |
+|[<img src="GameFiles/img/Life and Death 419.png" Width = "60%" alt="Life and Death 419.png.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Life_and_Death_419.gbf)|Capture all the white stones.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Life and Death #409 |
 
 |                     |                             
 |:-------------------:|
@@ -23,7 +23,9 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
-|Go puzzle Ex. 121124 |[![Watch the video](https://img.youtube.com/vi/xIR4VM0Cflo/1.jpg)](https://www.youtube.com/watch?v=xIR4VM0Cflo)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_121124.gbf">GBF/Go puzzle</a> |Korean |Editable            |
+|Life and Death #409 |[![Watch the video](https://img.youtube.com/vi/LLNjDGQh2J4/1.jpg)](https://www.youtube.com/watch?v=LLNjDGQh2J4)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Life_and_Death_419.gbf">GBF/Go puzzle</a> |Korean |Editable            |
+|Samsung Go Masters 1997-1  |[![Watch the video](https://img.youtube.com/vi/FHVY_5WKb9k/1.jpg)](https://www.youtube.com/watch?v=FHVY_5WKb9k)|Game review    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Samsung Go Masters 1997-1.gbf">GBF</a> |Korean | Lee Changho vs Naoto Hikosaka       |
+|Go puzzle Ex. 121124 |[![Watch the video](https://img.youtube.com/vi/xIR4VM0Cflo/1.jpg)](https://www.youtube.com/watch?v=xIR4VM0Cflo)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_121124.gbf">GBF/Go puzzle</a> |Korean |Li He vs. Choi Jeong            |
 |Life and Death #405 |[![Watch the video](https://img.youtube.com/vi/pm35YCDN7pY/1.jpg)](https://www.youtube.com/watch?v=pm35YCDN7pY)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_405.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |7th Wu Qingyuan Cup Final 3rd Round  |[![Watch the video](https://img.youtube.com/vi/1NYTTUmQzho/1.jpg)](https://www.youtube.com/watch?v=1NYTTUmQzho)|Game review    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/7th_Wu_Qingyuan_Cup_Final_3rd_Round.gbf">GBF</a> |Japanese |            |
 |Go puzzle Ex. 120224 |[![Watch the video](https://img.youtube.com/vi/2qPzho56Jng/1.jpg)](https://www.youtube.com/watch?v=2qPzho56Jng)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Go_puzzle_Ex_120224.gbf">GBF/Go puzzle</a> |Korean |Editable            |
