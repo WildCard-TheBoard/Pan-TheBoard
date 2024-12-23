@@ -3,11 +3,15 @@ title: Capture the white list
 layout: default
 ---
 
+20 - 122324
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_121124.png" Width = "60%" alt="GoPuzzle_121124.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_121124.gbf)|Save all black stones by moving first.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go puzzle Ex. 121124 |
+
 20 - 121124
 |                     |                         |                         
 |:-------------------:|:------------------------|
 |[<img src="img/LifeAndDeath_405.png" Width = "60%" alt="LifeAndDeath_405.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_405.gbf)|Capture the white stones by black moving first.<br><br>The file is unlock. You may add or change as you wish.<br><br>Reference: Life and Death #405 |
-
 
 20 - 120924
 |                     |                         |                         
