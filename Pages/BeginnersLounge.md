@@ -27,6 +27,9 @@ Got bored? Play game with others at [_OGS_](https://online-go.com/). Also provid
 [_polgote.com_](https://polgote.com/), Book online Go lessons with teachers from all around the world. The booking platform for connecting students with Go teachers for the online Go lessons has been launched.. 
 
 #### Channels for more
+[_Yoon`s Baduk Cafe_](https://www.youtube.com/@YoonsBadukCafe/featured) <br>
+Young Sun Yoon 8p Baduk (Go) Professional Player, Good to see the active update of recent games and techniques..<br>
+
 [_Dwyrin_](https://www.youtube.com/@dwyrin) <br>
 Go club on the internet! Here you can find many of his Go Games and Go lessons recorded for your entertainment and education..<br>
 
