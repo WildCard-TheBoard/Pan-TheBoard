@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/GoPuzzle_420.png" Width = "60%" alt="GoPuzzle_420.png.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_420.gbf)|Capture the white stones. Avoid Ko.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle #420 |
+|[<img src="GameFiles/img/GoPuzzle_423.png" Width = "60%" alt="GoPuzzle_423.png.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_423.gbf)|Capture the white stones. Avoid Ko.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle #420 |
 
 |                     |                             
 |:-------------------:|
@@ -23,6 +23,7 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Go Puzzle #423 |[![Watch the video](https://img.youtube.com/vi/gOUhJ0Ry6YI/1.jpg)](https://www.youtube.com/watch?v=gOUhJ0Ry6YI)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_423.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Handling of 3-3 invasion |[![Watch the video](https://img.youtube.com/vi/kHT3L7nODaw/1.jpg)](https://www.youtube.com/watch?v=kHT3L7nODaw)|Review of game opening |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Handling of 3-3 invasion.gbf">GBF</a> |English |2 parts of background and handling scenario at 3-3 |
 |Go Puzzle #420 |[![Watch the video](https://img.youtube.com/vi/YV_rzlKg_NQ/1.jpg)](https://www.youtube.com/watch?v=YV_rzlKg_NQ)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_420.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Initial 50 moves 122424|[![Watch the video](https://img.youtube.com/vi/8EhvLyI1jSU/1.jpg)](https://www.youtube.com/watch?v=8EhvLyI1jSU)|Game review    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/Initial 50 moves -122424.gbf">GBF</a> |Korean | Beginner's common mistake at game opening  |
