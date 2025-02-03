@@ -3,11 +3,15 @@ title: Capture the white list
 layout: default
 ---
 
-26 - 012625 Find the best move for black
+28 - 020325
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_123024.png" Width = "60%" alt="GoPuzzle_123024.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_123024.gbf)|Save marked black stones.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 123024 |
+
+27 - 012625 Find the best move for black
 |                     |                         |                         
 |:-------------------:|:------------------------|
 |[<img src="img/GameReview011225.png" Width = "100%" alt="GameReview011225.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GameReview011225.gbf)|Amazing game reading by professionals. <br>The marked balck stones are about to be captured and the player has to find a move for best. <br><br>1. The game file has 2 parts. The first is the overall game sequence and the second is Scenario format for your exercise.<br><br>2. The file is unlocked. You may add or change as you wish.<br><br>Reference: Game Review 011225 |
-
 
 26 - 011925
 |                     |                         |                         
