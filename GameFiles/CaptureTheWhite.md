@@ -3,6 +3,12 @@ title: Capture the white list
 layout: default
 ---
 
+29 - 021725
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_122624.png" Width = "60%" alt="GoPuzzle_122624.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_122624.gbf)|Save black stones of round marker. <br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 122624 |
+
+
 29 - 021025
 |                     |                         |                         
 |:-------------------:|:------------------------|
