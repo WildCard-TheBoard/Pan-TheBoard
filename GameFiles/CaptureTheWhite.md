@@ -3,13 +3,15 @@ title: Capture the white list
 layout: default
 ---
 
+31 - 030325
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_010525.png" Width = "60%" alt="GoPuzzle_010525.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_010525.gbf)|Capture the white stones. Avoid Ko or stalemate.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 010525 |
 
-29 - 022325
+30 - 022325
 |                     |                         |                         
 |:-------------------:|:------------------------|
 |[<img src="img/GoPuzzle_010425.png" Width = "60%" alt="GoPuzzle_010425.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_010425.gbf)|Save black stones. Avoid Ko or stalemate.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 010425 |
-
-
 
 29 - 021725
 |                     |                         |                         
