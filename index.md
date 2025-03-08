@@ -14,7 +14,7 @@ layout: default
 
 |                     |                         |                        
 |:-------------------:|:-----------------------:|
-|[<img src="assets/img/EGC2025WarsawPoland.png" Width = "70%" />](https://egc2025.pl/en/) <br>[<img src="assets/img/US Go Congress 2025.png" Width = "70%" />](https://www.usgo.org/ATX2025-Home) <br>[<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "70%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |[<img src="EuropeanGoJournal/cover Nov Dec 2024-3.png" Width = "100%" />](https://eurogojournal.com/editions/)|
+|[<img src="assets/img/EGC2025WarsawPoland.png" Width = "80%" />](https://egc2025.pl/en/) <br>[<img src="assets/img/US Go Congress 2025.png" Width = "80%" />](https://www.usgo.org/ATX2025-Home) <br>[<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "80%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |[<img src="EuropeanGoJournal/cover Nov Dec 2024-3.png" Width = "100%" />](https://eurogojournal.com/editions/)|
 
 <br><br>
 
