@@ -3,6 +3,11 @@ title: Capture the white list
 layout: default
 ---
 
+34 - 033125
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_032025.png" Width = "60%" alt="GoPuzzle_032025.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_032025.gbf)|Capture the white stones. Avoid Ko or stalemate.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 032025 |
+
 34 - 032425
 |                     |                         |                         
 |:-------------------:|:------------------------|
