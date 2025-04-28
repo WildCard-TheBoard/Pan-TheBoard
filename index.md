@@ -2,11 +2,11 @@
 title: Home
 layout: default
 ---
-### Save black stones
+### Capture white stones
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/GoPuzzle_041925.png" Width = "60%" alt="GoPuzzle_041925.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_041925.gbf)|Save black stones. Avoid Ko or stalemate.<br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 041925 |
+|[<img src="GameFiles/img/GoPuzzle_042625.png" Width = "60%" alt="GoPuzzle_042625.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_042625.gbf)|Capture the white stones. <br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 042625 |
 
 |                     |                             
 |:-------------------:|
@@ -23,6 +23,7 @@ layout: default
 
 |Title                |Video                     |Game type                 |File type               |Language             |Remarks              |
 |:-------------------:|:------------------------:|:------------------------:|:----------------------:|:-------------------:|:-------------------:|
+|Go Puzzle 042625 |[![Watch the video](https://img.youtube.com/vi/yPaK86fJ4hQ/1.jpg)](https://www.youtube.com/watch?v=yPaK86fJ4hQ)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_042625.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Go Puzzle 041925 |[![Watch the video](https://img.youtube.com/vi/xV0yfNueYfk/1.jpg)](https://www.youtube.com/watch?v=xV0yfNueYfk)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_041925.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Go Puzzle #527 |[![Watch the video](https://img.youtube.com/vi/3UqADOqZrrQ/1.jpg)](https://www.youtube.com/watch?v=3UqADOqZrrQ)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_527.gbf">GBF/Go puzzle</a> |Korean |Editable            |
 |Go Puzzle 032925 |[![Watch the video](https://img.youtube.com/vi/UzohBTTg060/1.jpg)](https://www.youtube.com/watch?v=UzohBTTg060)|Life and Death/Puzzle    |<a href="https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_032925.gbf">GBF/Go puzzle</a> |Korean |Editable            |
