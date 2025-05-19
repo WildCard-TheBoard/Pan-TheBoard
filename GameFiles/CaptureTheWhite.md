@@ -3,6 +3,12 @@ title: Capture the white list
 layout: default8
 ---
 
+
+41 - 051925
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_050125.png" Width = "60%" alt="GoPuzzle_050125.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_050125.gbf)|Save black stones. <br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle 050125 |
+
 40 - 050125
 |                     |                         |                         
 |:-------------------:|:------------------------|
