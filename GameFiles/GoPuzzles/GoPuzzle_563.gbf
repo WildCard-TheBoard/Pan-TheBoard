@@ -1,11 +1,11 @@
 1 BEGINNINGOFFILE
 2 FILEVERSIONOFGBFFORMAT GBF-1.0.0.0
 3 APPLICATIONNAME Pän::The Board 25MAY2023
-4 FILEPATHANDNAMEATSAVING C:\Users\jkadr\OneDrive\Desktop\GoProject\Web contents\Sample files\Go puzzle collection.gbf
-5 FILEPATHANDNAMEATOPENING C:\Users\jkadr\OneDrive\Desktop\GoProject\Web contents\Sample files\Go puzzle collection.gbf
-6 SAVEDATEANDTIME May/19/2025 03:17
+4 FILEPATHANDNAMEATSAVING C:\Users\jkadr\OneDrive\Desktop\GoProject\Web contents\Uploaded on GitHub\GoPuzzle_563.gbf
+5 FILEPATHANDNAMEATOPENING C:\Users\jkadr\OneDrive\Desktop\GoProject\Web contents\Uploaded on GitHub\GoPuzzle_563.gbf
+6 SAVEDATEANDTIME May/19/2025 03:31
 7 SCENARIOBEGIN
-8 GAMEHEADERINFOBEGIN 51
+8 GAMEHEADERINFOBEGIN 1
 9 TITLE Go Puzzle #563
 10 ADDITIONAINFOOFGAME Capture all white stones. Ko not allowed.
 11 BOARDSIZE 9
@@ -20,8 +20,8 @@
 20 APPLIEDRULESET 0
 21 WEBLINK_1_TITLE 바둑 도서관 @YouTube
 22 WEBLINK_1_DESCRIPTION Language: Korean
-23 WEBLINK_1_ADDRESS https://www.youtube.com/watch?v=w_nWG_CVw1k&list=WL
-24 GAMEHEADERINFOEND 51
+23 WEBLINK_1_ADDRESS https://www.youtube.com/watch?v=w_nWG_CVw1k
+24 GAMEHEADERINFOEND 1
 25 SCENARIODEFBEGIN
 26 TITLE Definition
 27 PLAYERMOVESTART
