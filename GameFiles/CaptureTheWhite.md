@@ -3,6 +3,10 @@ title: Capture the white list
 layout: default8
 ---
 
+42 - 052625
+|                     |                         |                         
+|:-------------------:|:------------------------|
+|[<img src="img/GoPuzzle_563.png" Width = "60%" alt="GoPuzzle_563.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_563.gbf)|Capture the white stones. <br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle #563 |
 
 41 - 051925
 |                     |                         |                         
