@@ -10,7 +10,7 @@ layout: default
 
 |                     |                     |                                        
 |:-------------------:|:-------------------:|
-|[<img src="EuropeanGoJournal/EuropeanGoJournalCover.png" Width = "100%" />](https://eurogojournal.com/editions/)| [<img src="OGS/OGSTitlel.png" Width = "60%" />](https://online-go.com/) <br>Now Live! Watch games, and learn... |
+|[<img src="EuropeanGoJournal/EuropeanGoJournalCover.png" Width = "80%" />](https://eurogojournal.com/editions/)| [<img src="OGS/OGSTitlel.png" Width = "40%" />](https://online-go.com/) <br>Now Live! Watch games, and learn... |
 
 <br><br>
 
