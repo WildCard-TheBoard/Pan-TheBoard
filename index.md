@@ -8,13 +8,9 @@ layout: default
 |:-------------------:|:------------------------|
 |[<img src="GameFiles/img/GoPuzzle_570.png" Width = "60%" alt="GoPuzzle_570.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/GoPuzzle_570.gbf)|Capture the white stones. <br><br>The file is unlocked. You may add or change as you wish.<br><br>Reference: Go Puzzle #570 |
 
-|                     |                             
-|:-------------------:|
-| [Now Live! @OGS](https://online-go.com/) <br>_Watch games, and learn..._ |
-
-|                     |                         |                        
-|:-------------------:|:-----------------------:|
-|[<img src="assets/img/EGC2025WarsawPoland.png" Width = "80%" />](https://egc2025.pl/en/) <br>[<img src="assets/img/US Go Congress 2025.png" Width = "80%" />](https://www.usgo.org/ATX2025-Home) <br>[<img src="assets/img/Banner-BuildYourOwnShareWithUs-R1A.png" Width = "80%" alt="BuildYourOwnShareWithUs.png"/>](Pages/LinkToInfoCenter.md) |[<img src="EuropeanGoJournal/cover Nov Dec 2024-3.png" Width = "100%" />](https://eurogojournal.com/editions/)|
+|                     |                     |                                        
+|:-------------------:|:-------------------:|
+|[<img src="EuropeanGoJournal/EuropeanGoJournalCover.png" Width = "100%" />](https://eurogojournal.com/editions/)| [<img src="OGS/OGSTitlel.png" Width = "60%" />](https://online-go.com/) <br>Now Live! Watch games, and learn... |
 
 <br><br>
 
