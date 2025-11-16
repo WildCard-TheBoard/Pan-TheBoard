@@ -7,7 +7,7 @@ layout: default
 
 |                     |                     |          
 |:-------------------:|:-------------------:|
-| [<img src="Document/TheBoard-GettingStarted.png" Width = 300 alt="TheBoard-GettingStarted.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/TheBoard-GettingStarted.pdf)|Sample file for manual :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a><br><img Width = 300>|        
+| [<img src="Document/TheBoard-GettingStarted.png" Width = 300 alt="TheBoard-GettingStarted.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/GettingStarted-1.0.48.r0.pdf)|Sample file for manual :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a><br><img Width = 300>|        
 
 <br><br>
 #### * Known issue under review
