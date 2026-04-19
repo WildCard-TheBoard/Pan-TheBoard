@@ -7,7 +7,7 @@ layout: default
 
 |                     |                     |          
 |:-------------------:|:-------------------:|
-| [<img src="Document/ManualCoverPage1.0.57.R0.png" Width = 300 alt="ManualCoverPage1.0.57.R0.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/GettingStarted-1.0.57.R0.pdf)|Sample file for manual :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a><br><img Width = 300>|        
+| [<img src="Document/ManualCoverPage1.0.57.R0.png" Width = 300 alt="ManualCoverPage1.0.57.R0.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started-1.0.57.R0.pdf)|Sample file for manual :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a><br><img Width = 300>|        
 
 <br><br>
 #### KataGo Installation Recommanded
