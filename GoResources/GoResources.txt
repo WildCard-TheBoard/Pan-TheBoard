@@ -1,7 +1,5 @@
-Site list
-
-https://online-go.com/     OK
-https://www.goproblems.com/      Ok
+Site OGS https://online-go.com/     OK
+Site GoProblems.com https://www.goproblems.com/      OK
 
 
 
