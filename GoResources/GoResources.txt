@@ -1,8 +1,8 @@
 InfoHome OK
 InfoSiteList  No
 
-Site https://online-go.com/  OK  OGSLogo <OGS> 
-Site  https://www.goproblems.com/     Yes GoProblemsDotComLogo <GoProblems.com>
-Site  https://senseis.xmp.net/ No <Sensei's Library>
-Site https://www.lifein19x19.com/index.php No <Life In 19x19> 
+Site https://online-go.com/  OK  OGSLogo "OGS" 
+Site  https://www.goproblems.com/     Yes GoProblemsDotComLogo "GoProblems.com"
+Site  https://senseis.xmp.net/ No SenseisLib "Sensei's Library"
+Site https://www.lifein19x19.com/index.php No "Life In 19x19" 
 
