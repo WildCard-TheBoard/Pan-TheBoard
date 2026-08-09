@@ -1,12 +1,12 @@
-InfoHome OK
+InfoHome on
 InfoSiteList  Yes
-UserInfoSiteList Yes
-NewsAndEventList No
+UserInfoSiteList On
+NewsAndEventList Off
 
-Site <OGS> OGSLogo https://online-go.com/  OK  
-Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes 
-Site <Sensei's Library> SenseisLib https://senseis.xmp.net/ OK 
-Site <Life In 19x19> NOLOGO https://www.lifein19x19.com/index.php OK  
+Site <OGS> OGSLogo https://online-go.com/  OK  Internal
+Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
+Site <Sensei's Library> SenseisLib https://senseis.xmp.net/ No External
+Site <Life In 19x19> NOLOGO https://www.lifein19x19.com/index.php No  Internal
 
 
 
