@@ -1,5 +1,5 @@
 InfoHome on
-InfoSiteList  Yes 4
+InfoSiteList  Yes 2
 UserInfoSiteList On 3
 NewsAndEventList Off 3
 
