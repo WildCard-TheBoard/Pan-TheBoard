@@ -1,7 +1,7 @@
 InfoHome on
-InfoSiteList  Yes
-UserInfoSiteList On
-NewsAndEventList Off
+InfoSiteList  Yes 4
+UserInfoSiteList On 3
+NewsAndEventList Off 3
 
 Site <OGS> OGSLogo https://online-go.com/  OK  Internal
 Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
