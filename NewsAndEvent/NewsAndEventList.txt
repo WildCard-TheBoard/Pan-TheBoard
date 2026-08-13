@@ -1,5 +1,5 @@
 NewsAndEventList On 3
-Fixed1stRow Yes
+FixedRow 1
 RandomDisplay On
 RandomSearchRange 10
 
