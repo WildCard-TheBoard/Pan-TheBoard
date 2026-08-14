@@ -1,4 +1,4 @@
-NewsAndEventList On 3
+NewsAndEventList On 5
 FixedRow 1
 RandomDisplay On
 RandomSearchRange 10
