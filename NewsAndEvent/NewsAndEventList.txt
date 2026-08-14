@@ -8,3 +8,7 @@ NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoar
 NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt
 NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt
 NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt
+NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt
+NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt
+NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt
+NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt
