@@ -3,7 +3,7 @@ InfoSiteList  Yes 4
 UserInfoSiteList On 3
 
 
-Site <OGS> OGSLogo https://online-go.com/  OK  Internal
+Site <OGS> OGSLogo https://online-go.com/  OK  External
 Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
 Site <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
 Site <Life In 19x19> NOLOGO https://www.lifein19x19.com/index.php Yes  Internal
