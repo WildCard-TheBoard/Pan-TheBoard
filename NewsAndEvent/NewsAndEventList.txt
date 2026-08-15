@@ -1,3 +1,4 @@
+NewsAndEventTitle <Title in Experiment>
 NewsAndEventList On 5
 FixedRow 1
 RandomDisplay On
