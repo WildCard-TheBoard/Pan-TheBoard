@@ -1,6 +1,6 @@
 InfoHome on
 InfoSiteList  Yes 4
-UserInfoSiteList On 3
+UserInfoSiteList External On 3
 
 
 Site <OGS> OGSLogo https://online-go.com/  OK  External
