@@ -9,7 +9,7 @@ Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes I
 Description The purpose of goproblems.com is to provide the ultimate go problem resource. Go problems – otherwise known as go puzzles or tsumego – are set positions on a go board designed to help people improve at the game of go.
 Site <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
 Description Sensei's Library (short: SL) is meant to be a place where Go players can meet to find information, contribute information and discuss any items related to Go.
-Site <Life In 19x19> NOLOGO https://www.lifein19x19.com/index.php Yes  Internal
+Site <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Welcome to the Lifein19x19 Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 
 
