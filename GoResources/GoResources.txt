@@ -1,5 +1,5 @@
 InfoHome on
-InfoSiteList  Yes 2
+InfoSiteList  Yes 4
 UserInfoSiteList External On 2
 
 
