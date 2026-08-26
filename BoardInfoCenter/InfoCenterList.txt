@@ -1,4 +1,4 @@
-InfoCenterList  Yes 0
+InfoCenterList  Yes 1
 
 Site <Pän::The Board InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
 Description Home of Pän::The Board 
