@@ -1,6 +1,6 @@
 InfoHome on
-InfoSiteList  Yes 0
-UserInfoSiteList External On 0
+InfoSiteList  Yes 4
+UserInfoSiteList External Off 3
 
 
 Site <OGS jknnlkdfn jhodefhhuiifhausiufhhufhhasufhweufrwieurwieur> OGSLogo https://online-go.com/  OK  External
