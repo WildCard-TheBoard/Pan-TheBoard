@@ -1,5 +1,5 @@
 NewsAndEventTitle <News, Trend and Event>
-NewsAndEventList off 1
+NewsAndEventList yes 1
 FixedRow 1
 RandomDisplay On
 RandomSearchRange 10
