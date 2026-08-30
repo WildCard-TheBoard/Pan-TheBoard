@@ -1,6 +1,6 @@
 InfoCenterList  ok 2
 
-Site <InfoCenter> InfoCenterDefaultLogoTest https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
+Site <InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
 Description Home of Pän::The Board 
 Site <Documentation> GBFIcon https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents     Yes Internal
 Description Manual and other document for your information
