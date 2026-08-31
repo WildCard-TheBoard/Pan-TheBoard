@@ -1,0 +1,4 @@
+<A static method for computing the score of a Go game>
+There are two approaches that may be used in order to let a software compute the score of a Go game.
+https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/TigerEye.png 
+https://www.uni-trier.de/fileadmin/fb4/prof/BWL/FIN/Veranstaltungen/A_static_method_for_computing_the_score_of_a_Go_game__Carta_.pdf

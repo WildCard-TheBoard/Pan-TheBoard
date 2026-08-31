@@ -1,0 +1,4 @@
+<Sensei's Library>
+a place where Go players can meet to find information, contribute information and discuss any items related to Go.
+https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/SenseisLib.png 
+https://pandanet-igs.com/communities/gopanda2 
