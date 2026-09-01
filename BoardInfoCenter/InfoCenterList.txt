@@ -1,4 +1,4 @@
-InfoCenterList  off 1
+InfoCenterList  On 1
 AppVersionNumber 1.0.59
 
 Site <InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
