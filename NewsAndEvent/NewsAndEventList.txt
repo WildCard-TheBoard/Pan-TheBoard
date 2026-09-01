@@ -1,8 +1,8 @@
 NewsAndEventTitle <News, Trend and Event>
 NewsAndEventList On 3
-FixedRow 0
+FixedRow 2
 RandomDisplay On
-RandomSearchRange 10
+RandomSearchRange 20
 RefreshRateInMinute 10
 
 NewsAndEventItem https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt External
