@@ -5,3 +5,4 @@ Site <InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-
 Description Home of Pän::The Board 
 Site <Documentation> GBFIcon https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents     Yes Internal
 Description Manual and other document for your information
+AppUpdatePageControl  GBFIcon https://wildcard-theboard.github.io/Pan-TheBoard/
