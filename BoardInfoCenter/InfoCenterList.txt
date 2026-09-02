@@ -1,5 +1,5 @@
-InfoCenterList  On 1
-AppVersionNumber 1.0.60 No
+InfoCenterList  No 1
+AppVersionNumber 1.0.60 Yes
 
 Site <InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
 Description Home of Pän::The Board 
