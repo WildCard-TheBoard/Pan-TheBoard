@@ -1,4 +1,4 @@
 <GoProblems.com>
-goproblems.com is to provide the ultimate go test
+goproblems.com is to provide the ultimate go test resource display test in.
 https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/GoProblemsDotComLogo.png
 https://pandanet-igs.com/communities/gopanda2 
