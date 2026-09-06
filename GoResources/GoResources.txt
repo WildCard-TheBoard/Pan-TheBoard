@@ -3,7 +3,7 @@ InfoSiteList  Yes 4
 UserInfoSiteList External On 2
 
 
-Site <OGS jknnlkdfn jhodefhhuiifhausiufhhufhhasufhweufrwieurwieur> OGSLogo https://online-go.com/  OK  External
+Site <OGS jknnlkdfn jhodefhhuiifhausiufhhufhhasufhweufrwieurwieur> OGSLogo https://online-go.com/  OK  internal
 Description Online-go.com is made possible by the generous financial support from hundreds of individual site supporters, the guidance and welcome friendly attitudes 
 Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
 Description The purpose of goproblems.com is to provide the ultimate go problem resource. Go problems – otherwise known as go puzzles or tsumego – are set positions on a go board designed to help people improve at the game of go.
