@@ -1,5 +1,6 @@
 InfoHome on
 InfoSiteList  Yes 4
+InfoSiteTitle InfoSite
 UserInfoSiteList External On 2
 
 
