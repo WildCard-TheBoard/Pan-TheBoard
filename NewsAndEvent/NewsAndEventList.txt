@@ -1,6 +1,6 @@
 NewsAndEventTitle <News, Trend and Event>
 NewsAndEventList On 2
-FixedRow 1
+FixedRow 0
 RandomDisplay On
 RandomSearchRange 20
 RefreshRateInMinute 10
