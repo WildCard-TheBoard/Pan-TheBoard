@@ -1,7 +1,7 @@
 InfoHome on
 InfoSiteList  Yes 4
 InfoSiteTitle <Go Resources>
-UserInfoSiteList External On 2
+UserInfoSiteList External On 3
 
 
 Site <OGS jknnlkdfn jhodefhhuiifhausiufhhufhhasufhweufrwieurwieur> OGSLogo https://online-go.com/  OK  internal
