@@ -1,4 +1,4 @@
-InfoCenterList  Yes 1
+InfoCenterList  Yes 0
 InfoCenterTitle <Pän::The Board>
 AppVersionNumber 1.0.60 off
 
