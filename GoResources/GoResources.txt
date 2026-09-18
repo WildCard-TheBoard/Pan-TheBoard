@@ -1,5 +1,5 @@
 InfoHome on
-InfoSiteList  On 4
+InfoSiteList  Off 4
 InfoSiteTitle <Go Resources>
 UserInfoSiteList External Yes 3
 
