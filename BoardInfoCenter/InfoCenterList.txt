@@ -1,10 +1,10 @@
 InfoCenterList  On 1
 InfoCenterTitle <Pän::The Board>
-AppVersionNumber 1.0.60 off
+AppVersionNumber 1.0.59 off
 
 Site <InfoCenter> InfoCenterDefaultLogo https://wildcard-theboard.github.io/Pan-TheBoard/  OK  Internal
 Description Pän::The Board Home
 Site <Documentation> GBFIcon https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents     Yes Internal
 Description Manual and other document for your information
 AppUpdatePageControl  GBFIcon https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents
-UserInfoListBuild  https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents On
+UserInfoListBuild  https://wildcard-theboard.github.io/Pan-TheBoard/Manual/BoardCtrl-Contents Off
