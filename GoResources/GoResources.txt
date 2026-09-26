@@ -7,7 +7,7 @@ UserInfoSiteList External Yes 3
 Site <OGS> OGSLogo https://online-go.com/  OK  internal
 Description Online Go server. Play and watch games.
 Site <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
-Description Ultimate go problem, akago puzzles or tsumego, resources to help people improve at the game of go.
+Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
 Site <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
 Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
 Site <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
