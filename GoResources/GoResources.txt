@@ -23,11 +23,11 @@ Description Sensei's Place where Go players can meet to find information, contri
 
 
 
-Site [ko-KR] <OGS Korea> OGSLogo https://online-go.com/  OK  internal
+Site [ko] <OGS Korea> OGSLogo https://online-go.com/  OK  internal
 Description Online Go server. Play and watch games.
 
-Site [ko-KR] <Sensei's Library  Korea> SenseisLib https://senseis.xmp.net/ On External
+Site [ko] <Sensei's Library  Korea> SenseisLib https://senseis.xmp.net/ On External
 Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
-Site [ko-KR] <Life In 19x19 Korea > LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
+Site [ko] <Life In 19x19 Korea > LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 
