@@ -3,29 +3,35 @@ InfoSiteList  On 4
 InfoSiteTitle <InfoSite>
 UserInfoSiteList External Yes 3
 
-
-Site [en-CA] <OGS en-CA> OGSLogo https://online-go.com/  OK  internal
-Description Online Go server. Play and watch games.
+[RegionalDivider] All
 Site [] <GoProblems.com None> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
 Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
-Site [en-CA] <Sensei's Library en-CA> SenseisLib https://senseis.xmp.net/ On External
-Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
+
+
+[RegionalDivider] English 
 Site [en] <Life In 19x19 en> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 
-Site [en-US] <OGS> OGSLogo https://online-go.com/  OK  internal
+
+[RegionalDivider] English Canada
+Site [en-CA] <OGS en-CA> OGSLogo https://online-go.com/  OK  internal
 Description Online Go server. Play and watch games.
-Site [en-US] <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
-Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
-Site [en-US] <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
+Site [en-CA] <Sensei's Library en-CA> SenseisLib https://senseis.xmp.net/ On External
 Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
 
 
+[RegionalDivider] English US
+Site [en-US] <OGS US> OGSLogo https://online-go.com/  OK  internal
+Description Online Go server. Play and watch games.
+Site [en-US] <GoProblems.com US> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
+Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
+Site [en-US] <Sensei's Library US> SenseisLib https://senseis.xmp.net/ On External
+Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
 
 
+[RegionalDivider] Korea
 Site [ko] <OGS Korea> OGSLogo https://online-go.com/  OK  internal
 Description Online Go server. Play and watch games.
-
 Site [ko] <Sensei's Library  Korea> SenseisLib https://senseis.xmp.net/ On External
 Description Sensei's Place where Go players can meet to find information, contribute information and discuss any items related to Go.
 Site [ko] <Life In 19x19 Korea > LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
