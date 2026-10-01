@@ -1,5 +1,5 @@
 NewsAndEventTitle <News, Trend and Event>
-NewsAndEventList no 2
+NewsAndEventList Yes 3
 FixedRow 1
 RandomDisplay On
 RandomSearchRange 20
@@ -12,7 +12,7 @@ NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheB
 
 [RegionalDivider] English 
 NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_11.txt External
+NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
 
 [RegionalDivider] English Canada
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External
