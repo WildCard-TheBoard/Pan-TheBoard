@@ -6,7 +6,7 @@ RandomSearchRange 20
 RefreshRateInMinute 10
 
 [RegionalDivider] All
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External 9/05/2026 10/05/2026
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External 10/05/2026 11/05/2026
 NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_11.txt External
 NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
 
