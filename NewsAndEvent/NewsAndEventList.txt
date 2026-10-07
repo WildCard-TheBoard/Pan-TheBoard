@@ -5,14 +5,9 @@ RandomDisplay On
 RandomSearchRange 20
 RefreshRateInMinute 10
 
-[RegionalDivider] All
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_11.txt External
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
-
 [RegionalDivider] English 
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
+NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External 10/05/2026 11/05/2026
 
 [RegionalDivider] English Canada
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External
@@ -24,8 +19,8 @@ NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_8.txt External
 
 [RegionalDivider] Korea
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_4.txt External
+NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_4.txt External 10/05/2026 11/05/2026
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_6.txt External
@@ -35,4 +30,8 @@ NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-Th
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt External
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt External
 
+[RegionalDivider] All
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_11.txt External
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
 
