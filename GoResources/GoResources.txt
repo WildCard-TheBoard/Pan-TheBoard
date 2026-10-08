@@ -20,7 +20,6 @@ Site [en-US] <GoProblems.com US> GoProblemsDotComLogo https://www.goproblems.com
 Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
 
 [RegionalDivider] Korea
-Description Online Go Server. Play and watch games.
 Site [ko] <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 Site [ko] <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
@@ -28,6 +27,7 @@ Description Sensei's Place where Go players can meet to find information, contri
 Site [ko] <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
 Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
 Site [ko] <OGS> OGSLogo https://online-go.com/  OK  internal
+Description Online Go Server. Play and watch games.
 
 [RegionalDivider] All
 Site [] <OGS> OGSLogo https://online-go.com/  OK  internal
