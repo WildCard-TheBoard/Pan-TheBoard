@@ -1,14 +1,3 @@
-[RegionalDivider] [en] English 
-NewsAndEventTitle <News, Trend and Event En>
-NewsAndEventList On 0
-FixedRow 1
-RandomDisplay On
-RandomSearchRange 20
-RefreshRateInMinute 10
-
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External 10/05/2026 11/05/2026
-
 [RegionalDivider] [en-CA] English Canada
 NewsAndEventTitle <News, Trend and Event CA>
 NewsAndEventList On 3
@@ -24,6 +13,17 @@ NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_6.txt External
 NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_8.txt External
+
+[RegionalDivider] [en] English US or somewhere else
+NewsAndEventTitle <News, Trend and Event En>
+NewsAndEventList On 0
+FixedRow 1
+RandomDisplay On
+RandomSearchRange 20
+RefreshRateInMinute 10
+
+NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External 10/05/2026 11/05/2026
 
 [RegionalDivider] [ko] Korea
 NewsAndEventTitle <News, Trend and Event Ko>
