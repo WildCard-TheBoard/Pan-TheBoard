@@ -1,11 +1,9 @@
+[RegionalDivider] [en-CA] English Canada
 InfoHome on
 InfoSiteList  On 4
-InfoSiteTitle <InfoSite>
+InfoSiteTitle <InfoSite CA>
 UserInfoSiteList External Yes 3
 
-[RegionalDivider] English 
-
-[RegionalDivider] English Canada
 Site [en-CA] <OGS> OGSLogo https://online-go.com/  OK  internal
 Description Online Go Server. Play and watch games.
 Site [en-CA] <GoProblems.com> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
@@ -15,11 +13,30 @@ Description Sensei's Place where Go players can meet to find information, contri
 Site [en-CA] <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 
-[RegionalDivider] English US
+[RegionalDivider] [en-US] English US
+InfoHome on
+InfoSiteList  On 4
+InfoSiteTitle <InfoSite US>
+UserInfoSiteList External Yes 3
+
 Site [en-US] <GoProblems.com US> GoProblemsDotComLogo https://www.goproblems.com/     Yes Internal
 Description Ultimate go problem, aka go puzzles or tsumego, resources to help people improve at the game of go.
 
-[RegionalDivider] Korea
+[RegionalDivider] [en] English 
+InfoHome on
+InfoSiteList  On 4
+InfoSiteTitle <InfoSite En>
+UserInfoSiteList External Yes 3
+
+Site [en] <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
+Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
+
+[RegionalDivider] [ko] Korea
+InfoHome on
+InfoSiteList  On 4
+InfoSiteTitle <InfoSite Ko>
+UserInfoSiteList External Yes 3
+
 Site [ko] <Life In 19x19> LifeIn19-32x32 https://www.lifein19x19.com/index.php Yes  Internal
 Description Go Forums! We'd like you to have the best experience here possible, so as with all forums, we have several rules and guidelines here that we'd like the community to try and follow. This list is subject to change at any time.
 Site [ko] <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
@@ -29,7 +46,12 @@ Description Ultimate go problem, aka go puzzles or tsumego, resources to help pe
 Site [ko] <OGS> OGSLogo https://online-go.com/  OK  internal
 Description Online Go Server. Play and watch games.
 
-[RegionalDivider] All
+[RegionalDivider] [] All
+InfoHome on
+InfoSiteList  On 4
+InfoSiteTitle <InfoSite All>
+UserInfoSiteList External Yes 3
+
 Site [] <OGS> OGSLogo https://online-go.com/  OK  internal
 Description Online Go Server. Play and watch games.
 Site [] <Sensei's Library> SenseisLib https://senseis.xmp.net/ On External
