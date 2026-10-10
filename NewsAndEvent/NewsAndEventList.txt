@@ -33,7 +33,7 @@ RandomDisplay On
 RandomSearchRange 20
 RefreshRateInMinute 10
 
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External 10/05/2026 10/05/2026
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_4.txt External 10/05/2026 11/05/2026
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
 NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
