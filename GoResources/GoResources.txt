@@ -1,7 +1,7 @@
 [RegionalDivider] [] All
 InfoHome on
 InfoSiteList  On 4
-InfoSiteTitle <InfoSite All>
+InfoSiteTitle <InfoSite>
 UserInfoSiteList External Yes 3
 
 Site [] <OGS> OGSLogo https://online-go.com/  OK  internal
