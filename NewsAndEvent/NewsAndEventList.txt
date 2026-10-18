@@ -1,58 +1,12 @@
-[RegionalDivider] [en-CA] English Canada
-NewsAndEventTitle <News, Trend and Event CA>
-NewsAndEventList On 3
-FixedRow 1
-RandomDisplay On
-RandomSearchRange 20
-RefreshRateInMinute 10
-
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_4.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_6.txt External
-NewsAndEventItem [en-CA] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_8.txt External
-
-[RegionalDivider] [en] English US or somewhere else
-NewsAndEventTitle <News, Trend and Event En>
-NewsAndEventList On 0
-FixedRow 1
-RandomDisplay On
-RandomSearchRange 20
-RefreshRateInMinute 10
-
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [en] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External 10/05/2026 11/05/2026
-
-[RegionalDivider] [ko] Korea
-NewsAndEventTitle <News, Trend and Event Ko>
-NewsAndEventList On 2
-FixedRow 1
-RandomDisplay On
-RandomSearchRange 20
-RefreshRateInMinute 10
-
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_9.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_4.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_6.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_8.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_001.txt External
-NewsAndEventItem [ko] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventTest_002.txt External
-
 [RegionalDivider] [] All
-NewsAndEventTitle <News, Trend and Event All>
-NewsAndEventList On 1
-FixedRow 1
+NewsAndEventTitle <News, Trend and Event>
+NewsAndEventList On 2
+FixedRow 2
 RandomDisplay On
 RandomSearchRange 20
 RefreshRateInMinute 10
 
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_10.txt External 10/05/2026 11/05/2026
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_11.txt External
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_5.txt External
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_1.txt External 10/05/2026 11/05/2026
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_2.txt External
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
 
