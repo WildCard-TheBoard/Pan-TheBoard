@@ -6,5 +6,5 @@ RandomDisplay On
 RandomSearchRange 20
 RefreshRateInMinute 10
 
-NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsEventTestFile_3.txt External
+NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_3.txt External
 NewsAndEventItem [] https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/NewsAndEventList_7.txt External
