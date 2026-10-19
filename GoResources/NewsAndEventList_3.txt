@@ -1,4 +1,4 @@
 <News Item>
 News Item list as example 
-https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/DefaultLogo.png 
+https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/TigerEyeLogo.png 
 https://pandanet-igs.com/communities/gopanda2 
