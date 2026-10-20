@@ -1,4 +1,4 @@
 <Event Item>
-Event Item to Show
+Event Item to Show, Sponsored link of timely managed items by region
 https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/GBFIconBAndW.png
 https://pandanet-igs.com/communities/gopanda2
