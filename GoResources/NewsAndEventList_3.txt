@@ -1,4 +1,4 @@
 <News Item>
-News Item list as example 
+News Item list as example: Describes the news items briefly for the audience in the region 
 https://raw.githubusercontent.com/WildCard-TheBoard/Pan-TheBoard/master/GoResources/TigerEyeLogo.png 
 https://pandanet-igs.com/communities/gopanda2 
