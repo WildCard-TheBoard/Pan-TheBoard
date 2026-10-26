@@ -1,6 +1,6 @@
 [RegionalDivider] [] All
 NewsAndEventTitle <News, Trend and Event>
-NewsAndEventList On 2
+NewsAndEventList Off 2
 FixedRow 3
 RandomDisplay On
 RandomSearchRange 20
