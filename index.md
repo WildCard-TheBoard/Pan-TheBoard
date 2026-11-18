@@ -10,7 +10,7 @@ layout: default
 
 |                     |                                                         
 |:-------------------:|
-|[<img src="EuropeanGoJournal/EuropeanGoJournal103026.png" Width = "100%" />](https://eurogojournal.com/editions/)| 
+|[<img src="EuropeanGoJournal/EuropeanGoJournal103026.png" Width = "60%" />](https://eurogojournal.com/editions/)| 
 
 <br><br>
 
