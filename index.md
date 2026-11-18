@@ -6,7 +6,7 @@ layout: default
 
 |                     |                         |                         
 |:-------------------:|:------------------------|
-|[<img src="GameFiles/img/SandM_120824Partial.png" Width = "80%" alt="SandM_120824Partial.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/SandMGameStrategy_120824.gbf)|White tries to capture the black stones of 'X' marker. <br><br>However, when black moves on A, white has to pay back stone group B or C.<br><br>Reference: SandM 120824 |
+|[<img src="GameFiles/img/SandM_120824Partial.png" Width = "100%" alt="SandM_120824Partial.png"/><br>Click to download game file](https://wildcard-theboard.github.io/Pan-TheBoard/GameFiles/GoPuzzles/SandMGameStrategy_120824.gbf)|White tries to capture the black stones of 'X' marker. <br><br>However, when black moves on A, white has to pay back stone group B or C.<br><br>Reference: SandM 120824 |
 
 |                     |                                                         
 |:-------------------:|
