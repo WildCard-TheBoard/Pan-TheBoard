@@ -8,7 +8,7 @@ layout: default
 |                     |                     |                     |          
 |:-------------------:|:-------------------:|:-------------------:|
 |Basic operation| [<img src="Document/GettingStarted-1.0.59.R1CoverPage.png" Width = 300 alt="GettingStarted-1.0.59.R1CoverPage.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/GettingStarted-1.0.59.R1.pdf)|Sample file for manual :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Getting Started.gbf">Getting Started.gbf</a> <br><br><a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/Sample_GBF_1_File.gbf">Sample_GBF_1_File.gbf</a><br>To check out the performance with some <br>exceptional cases such as supr Ko. |
-|Go resources and <br>user defined infolist handling  | [<img src="Document/BuildingCustomeGoResources.R0CoverPage.png" Width = 300 alt="BuildingCustomeGoResources.R0CoverPage.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/BuildingCustomeGoResources.R0.pdf)|Sample file for Custom Resource :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/CustomResources.res">CustomResources.res</a>|        
+|Go resources and <br>user defined infolist handling  | [<img src="Document/BuildingCustomeGoResources.R0CoverPage.png" Width = 300 alt="BuildingCustomeGoResources.R0CoverPage.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/BuildingCustomeGoResources.R0.pdf)|Sample file for Custom Resource :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/CustomResources.dat">CustomResources.dat</a>|        
 
 
 
