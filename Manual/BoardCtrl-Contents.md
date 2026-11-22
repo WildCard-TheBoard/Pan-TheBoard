@@ -3,6 +3,12 @@ title: Manual - Contents
 layout: default
 ---
 
+|                     |                     |                     |          
+|:-------------------:|:-------------------:|:-------------------:|
+|Go resources and <br>user defined infolist handling  | [<img src="Document/BuildingCustomeGoResources.R0CoverPage.png" Width = 300 alt="BuildingCustomeGoResources.R0CoverPage.png"/><br>Click to download PDF file](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/BuildingCustomeGoResources.R0.pdf)|Sample file for Custom Resource :<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/CustomResources.dat">CustomResources.dat</a>|        
+
+
+
 ### User's manual and sample files
 
 |                     |                     |                     |          
