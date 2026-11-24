@@ -11,7 +11,7 @@ layout: default
 |Go resources and <br>user defined infolist handling  | [<img src="Manual/Document/BuildingCustomeGoResources.R0CoverPage.png" Width = 300 alt="BuildingCustomeGoResources.R0CoverPage.png"/>](https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/BuildingCustomeGoResources.R0.pdf)|Sample for Custom Resource.<br> Copy and paste <br>the text into your CustomeResources.dat <br>to build user defined infolist:<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/CustomResources.txt">CustomResources.txt</a>|        
 
 <br><br>
- build user defined infolist:<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/SampleResources.gbf">CustomResources</a>
+ build user defined infolist:<br> <a href="https://wildcard-theboard.github.io/Pan-TheBoard/Manual/Document/CustomResources.datr">CustomResources</a>
 <br><br>
 #### * Known issue under review
 
